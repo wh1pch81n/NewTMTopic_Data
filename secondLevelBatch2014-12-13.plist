@@ -12,7 +12,7 @@
 		<key>max</key>
 		<integer>3</integer>
 		<key>source</key>
-		<string></string>
+		<string>a</string>
 		<key>question</key>
 		<string>Why is the sky blue?</string>
 	</dict>
