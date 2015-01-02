@@ -1,0 +1,5116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>category</key>
+		<string>Learning</string>
+		<key>intro</key>
+		<string></string>
+		<key>min</key>
+		<integer>2</integer>
+		<key>max</key>
+		<integer>3</integer>
+		<key>source</key>
+		<string>http://www.dist8tm.org/docs/TM-%20365%20Sample%20Table%20Topics%20Questions.pdf</string>
+		<key>question</key>
+		<string>When was the last time you tried something new?</string>
+	</dict>
+	<dict>
+		<key>category</key>
+		<string>Idol Worship</string>
+		<key>intro</key>
+		<string></string>
+		<key>min</key>
+		<integer>2</integer>
+		<key>max</key>
+		<integer>3</integer>
+		<key>source</key>
+		<string>http://www.dist8tm.org/docs/TM-%20365%20Sample%20Table%20Topics%20Questions.pdf</string>
+		<key>question</key>
+		<string>Who do you sometimes compare yourself to?</string>
+	</dict>
+	<dict>
+		<key>category</key>
+		<string>Famous Words</string>
+		<key>intro</key>
+		<string></string>
+		<key>min</key>
+		<integer>2</integer>
+		<key>max</key>
+		<integer>3</integer>
+		<key>source</key>
+		<string>http://www.dist8tm.org/docs/TM-%20365%20Sample%20Table%20Topics%20Questions.pdf</string>
+		<key>question</key>
+		<string>What&apos;s the most sensible thing you&apos;ve ever heard someone say?</string>
+	</dict>
+	<dict>
+		<key>category</key>
+		<string>Hobbies</string>
+		<key>intro</key>
+		<string></string>
+		<key>min</key>
+		<integer>2</integer>
+		<key>max</key>
+		<integer>3</integer>
+		<key>source</key>
+		<string>http://www.dist8tm.org/docs/TM-%20365%20Sample%20Table%20Topics%20Questions.pdf</string>
+		<key>question</key>
+		<string>What gets you excited about life?</string>
+	</dict>
+	<dict>
+		<key>category</key>
+		<string>Learning</string>
+		<key>intro</key>
+		<string></string>
+		<key>min</key>
+		<integer>2</integer>
+		<key>max</key>
+		<integer>3</integer>
+		<key>source</key>
+		<string>http://www.dist8tm.org/docs/TM-%20365%20Sample%20Table%20Topics%20Questions.pdf</string>
+		<key>question</key>
+		<string>What life lesson did you learn the hard way?</string>
+	</dict>
+	<dict>
+		<key>category</key>
+		<string>Learning</string>
+		<key>intro</key>
+		<string></string>
+		<key>min</key>
+		<integer>2</integer>
+		<key>max</key>
+		<integer>3</integer>
+		<key>source</key>
+		<string>http://www.dist8tm.org/docs/TM-%20365%20Sample%20Table%20Topics%20Questions.pdf</string>
+		<key>question</key>
+		<string>What do you wish you spent more time doing five years ago?</string>
+	</dict>
+	<dict>
+		<key>category</key>
+		<string>Learning</string>
+		<key>intro</key>
+		<string></string>
+		<key>min</key>
+		<integer>2</integer>
+		<key>max</key>
+		<integer>3</integer>
+		<key>source</key>
+		<string>http://www.dist8tm.org/docs/TM-%20365%20Sample%20Table%20Topics%20Questions.pdf</string>
+		<key>question</key>
+		<string>Do you ask enough questions or do you settle for what you know?</string>
+	</dict>
+	<dict>
+		<key>category</key>
+		<string>Hobbies</string>
+		<key>intro</key>
+		<string></string>
+		<key>min</key>
+		<integer>2</integer>
+		<key>max</key>
+		<integer>3</integer>
+		<key>source</key>
+		<string>http://www.dist8tm.org/docs/TM-%20365%20Sample%20Table%20Topics%20Questions.pdf</string>
+		<key>question</key>
+		<string>Who do you love and what are you doing about it?</string>
+	</dict>
+	<dict>
+		<key>category</key>
+		<string>Famous Words</string>
+		<key>intro</key>
+		<string></string>
+		<key>min</key>
+		<integer>2</integer>
+		<key>max</key>
+		<integer>3</integer>
+		<key>source</key>
+		<string>http://www.dist8tm.org/docs/TM-%20365%20Sample%20Table%20Topics%20Questions.pdf</string>
+		<key>question</key>
+		<string>What&apos;s a belief that you hold with which many people disagree?</string>
+	</dict>
+	<dict>
+		<key>category</key>
+		<string>Learning</string>
+		<key>intro</key>
+		<string></string>
+		<key>min</key>
+		<integer>2</integer>
+		<key>max</key>
+		<integer>3</integer>
+		<key>source</key>
+		<string>http://www.dist8tm.org/docs/TM-%20365%20Sample%20Table%20Topics%20Questions.pdf</string>
+		<key>question</key>
+		<string>What can you do today that you were not capable of a year ago?</string>
+	</dict>
+	<dict>
+		<key>category</key>
+		<string>Define This</string>
+		<key>intro</key>
+		<string></string>
+		<key>min</key>
+		<integer>2</integer>
+		<key>max</key>
+		<integer>3</integer>
+		<key>source</key>
+		<string>http://www.dist8tm.org/docs/TM-%20365%20Sample%20Table%20Topics%20Questions.pdf</string>
+		<key>question</key>
+		<string>Do you think crying is a sign of weakness or strength?</string>
+	</dict>
+	<dict>
+		<key>category</key>
+		<string>Parallel Universe</string>
+		<key>intro</key>
+		<string></string>
+		<key>min</key>
+		<integer>2</integer>
+		<key>max</key>
+		<integer>3</integer>
+		<key>source</key>
+		<string>http://www.dist8tm.org/docs/TM-%20365%20Sample%20Table%20Topics%20Questions.pdf</string>
+		<key>question</key>
+		<string>What would you do differently if you knew nobody would judge you?</string>
+	</dict>
+	<dict>
+		<key>category</key>
+		<string>Hobbies</string>
+		<key>intro</key>
+		<string></string>
+		<key>min</key>
+		<integer>2</integer>
+		<key>max</key>
+		<integer>3</integer>
+		<key>source</key>
+		<string>http://www.dist8tm.org/docs/TM-%20365%20Sample%20Table%20Topics%20Questions.pdf</string>
+		<key>question</key>
+		<string>Do you celebrate the things you do have?</string>
+	</dict>
+	<dict>
+		<key>category</key>
+		<string>Define This</string>
+		<key>intro</key>
+		<string></string>
+		<key>min</key>
+		<integer>2</integer>
+		<key>max</key>
+		<integer>3</integer>
+		<key>source</key>
+		<string>http://www.dist8tm.org/docs/TM-%20365%20Sample%20Table%20Topics%20Questions.pdf</string>
+		<key>question</key>
+		<string>What is the difference between living and existing?</string>
+	</dict>
+	<dict>
+		<key>category</key>
+		<string>Time Machine</string>
+		<key>intro</key>
+		<string>Often times we choose to do important things later rather than now.</string>
+		<key>min</key>
+		<integer>2</integer>
+		<key>max</key>
+		<integer>3</integer>
+		<key>source</key>
+		<string>http://www.dist8tm.org/docs/TM-%20365%20Sample%20Table%20Topics%20Questions.pdf</string>
+		<key>question</key>
+		<string>If not now, then when?</string>
+	</dict>
+	<dict>
+		<key>category</key>
+		<string>Learning</string>
+		<key>intro</key>
+		<string></string>
+		<key>min</key>
+		<integer>2</integer>
+		<key>max</key>
+		<integer>3</integer>
+		<key>source</key>
+		<string>http://www.dist8tm.org/docs/TM-%20365%20Sample%20Table%20Topics%20Questions.pdf</string>
+		<key>question</key>
+		<string>Have you done anything lately worth remembering?</string>
+	</dict>
+	<dict>
+		<key>category</key>
+		<string>Define This</string>
+		<key>intro</key>
+		<string></string>
+		<key>min</key>
+		<integer>2</integer>
+		<key>max</key>
+		<integer>3</integer>
+		<key>source</key>
+		<string>http://www.dist8tm.org/docs/TM-%20365%20Sample%20Table%20Topics%20Questions.pdf</string>
+		<key>question</key>
+		<string>What does your joy look like today?</string>
+	</dict>
+	<dict>
+		<key>category</key>
+		<string>Define This</string>
+		<key>intro</key>
+		<string></string>
+		<key>min</key>
+		<integer>2</integer>
+		<key>max</key>
+		<integer>3</integer>
+		<key>source</key>
+		<string>http://www.dist8tm.org/docs/TM-%20365%20Sample%20Table%20Topics%20Questions.pdf</string>
+		<key>question</key>
+		<string>Is it possible to lie without saying a word?</string>
+	</dict>
+	<dict>
+		<key>category</key>
+		<string>Idol Worship</string>
+		<key>intro</key>
+		<string></string>
+		<key>min</key>
+		<integer>2</integer>
+		<key>max</key>
+		<integer>3</integer>
+		<key>source</key>
+		<string>http://www.dist8tm.org/docs/TM-%20365%20Sample%20Table%20Topics%20Questions.pdf</string>
+		<key>question</key>
+		<string>If you had a friend who spoke to you in the same way that you sometimes speak to yourself, how long would you allow this person to be your friend?</string>
+	</dict>
+	<dict>
+		<key>category</key>
+		<string>Hobbies</string>
+		<key>intro</key>
+		<string></string>
+		<key>min</key>
+		<integer>2</integer>
+		<key>max</key>
+		<integer>3</integer>
+		<key>source</key>
+		<string>http://www.dist8tm.org/docs/TM-%20365%20Sample%20Table%20Topics%20Questions.pdf</string>
+		<key>question</key>
+		<string>Which activities make you lose track of time?</string>
+	</dict>
+	<dict>
+		<key>category</key>
+		<string>Learning</string>
+		<key>intro</key>
+		<string></string>
+		<key>min</key>
+		<integer>2</integer>
+		<key>max</key>
+		<integer>3</integer>
+		<key>source</key>
+		<string>http://www.dist8tm.org/docs/TM-%20365%20Sample%20Table%20Topics%20Questions.pdf</string>
+		<key>question</key>
+		<string>If you had to teach something, what would you teach?</string>
+	</dict>
+	<dict>
+		<key>category</key>
+		<string>Parallel Universe</string>
+		<key>intro</key>
+		<string></string>
+		<key>min</key>
+		<integer>2</integer>
+		<key>max</key>
+		<integer>3</integer>
+		<key>source</key>
+		<string>http://www.dist8tm.org/docs/TM-%20365%20Sample%20Table%20Topics%20Questions.pdf</string>
+		<key>question</key>
+		<string>What would you regret not fully doing, being or having in your life?</string>
+	</dict>
+	<dict>
+		<key>category</key>
+		<string>Hobbies</string>
+		<key>intro</key>
+		<string></string>
+		<key>min</key>
+		<integer>2</integer>
+		<key>max</key>
+		<integer>3</integer>
+		<key>source</key>
+		<string>http://www.dist8tm.org/docs/TM-%20365%20Sample%20Table%20Topics%20Questions.pdf</string>
+		<key>question</key>
+		<string>Are you holding onto something that you need to let go of?</string>
+	</dict>
+	<dict>
+		<key>category</key>
+		<string>Time Machine</string>
+		<key>intro</key>
+		<string></string>
+		<key>min</key>
+		<integer>2</integer>
+		<key>max</key>
+		<integer>3</integer>
+		<key>source</key>
+		<string>http://www.dist8tm.org/docs/TM-%20365%20Sample%20Table%20Topics%20Questions.pdf</string>
+		<key>question</key>
+		<string>When you are 80-years-old, what will matter to you the most?</string>
+	</dict>
+	<dict>
+		<key>category</key>
+		<string>Daredevil</string>
+		<key>intro</key>
+		<string></string>
+		<key>min</key>
+		<integer>2</integer>
+		<key>max</key>
+		<integer>3</integer>
+		<key>source</key>
+		<string>http://www.dist8tm.org/docs/TM-%20365%20Sample%20Table%20Topics%20Questions.pdf</string>
+		<key>question</key>
+		<string>When is it time to stop calculating risk and rewards and just do what you know is right?</string>
+	</dict>
+	<dict>
+		<key>category</key>
+		<string>Mirror Mirror</string>
+		<key>intro</key>
+		<string></string>
+		<key>min</key>
+		<integer>2</integer>
+		<key>max</key>
+		<integer>3</integer>
+		<key>source</key>
+		<string>http://www.dist8tm.org/docs/TM-%20365%20Sample%20Table%20Topics%20Questions.pdf</string>
+		<key>question</key>
+		<string>How old would you be if you didn&apos;t know how old you are?</string>
+	</dict>
+	<dict>
+		<key>category</key>
+		<string>Daredevil</string>
+		<key>intro</key>
+		<string></string>
+		<key>min</key>
+		<integer>2</integer>
+		<key>max</key>
+		<integer>3</integer>
+		<key>source</key>
+		<string>http://www.dist8tm.org/docs/TM-%20365%20Sample%20Table%20Topics%20Questions.pdf</string>
+		<key>question</key>
+		<string>Would you break the law to save a loved one?</string>
+	</dict>
+	<dict>
+		<key>category</key>
+		<string>Mirror Mirror</string>
+		<key>intro</key>
+		<string></string>
+		<key>min</key>
+		<integer>2</integer>
+		<key>max</key>
+		<integer>3</integer>
+		<key>source</key>
+		<string>http://www.dist8tm.org/docs/TM-%20365%20Sample%20Table%20Topics%20Questions.pdf</string>
+		<key>question</key>
+		<string>What makes you smile?</string>
+	</dict>
+	<dict>
+		<key>category</key>
+		<string>Famous Words</string>
+		<key>intro</key>
+		<string></string>
+		<key>min</key>
+		<integer>2</integer>
+		<key>max</key>
+		<integer>3</integer>
+		<key>source</key>
+		<string>http://www.dist8tm.org/docs/TM-%20365%20Sample%20Table%20Topics%20Questions.pdf</string>
+		<key>question</key>
+		<string>When it&apos;s all said and done, will you have said more than you&apos;ve done?</string>
+	</dict>
+	<dict>
+		<key>category</key>
+		<string>Parallel Universe</string>
+		<key>intro</key>
+		<string></string>
+		<key>min</key>
+		<integer>2</integer>
+		<key>max</key>
+		<integer>3</integer>
+		<key>source</key>
+		<string>http://www.dist8tm.org/docs/TM-%20365%20Sample%20Table%20Topics%20Questions.pdf</string>
+		<key>question</key>
+		<string>If you had the opportunity to get a message across to a large group of people, what would your message be?</string>
+	</dict>
+	<dict>
+		<key>category</key>
+		<string>Parallel Universe</string>
+		<key>intro</key>
+		<string></string>
+		<key>min</key>
+		<integer>2</integer>
+		<key>max</key>
+		<integer>3</integer>
+		<key>source</key>
+		<string>http://www.dist8tm.org/docs/TM-%20365%20Sample%20Table%20Topics%20Questions.pdf</string>
+		<key>question</key>
+		<string>If the average human lifespan was 40 years, how would you live your life differently?</string>
+	</dict>
+	<dict>
+		<key>category</key>
+		<string>idol Worship</string>
+		<key>intro</key>
+		<string></string>
+		<key>min</key>
+		<integer>2</integer>
+		<key>max</key>
+		<integer>3</integer>
+		<key>source</key>
+		<string>http://www.dist8tm.org/docs/TM-%20365%20Sample%20Table%20Topics%20Questions.pdf</string>
+		<key>question</key>
+		<string>What do we all have in common besides our genes that makes us human?</string>
+	</dict>
+	<dict>
+		<key>category</key>
+		<string>Learning</string>
+		<key>intro</key>
+		<string></string>
+		<key>min</key>
+		<integer>2</integer>
+		<key>max</key>
+		<integer>3</integer>
+		<key>source</key>
+		<string>http://www.dist8tm.org/docs/TM-%20365%20Sample%20Table%20Topics%20Questions.pdf</string>
+		<key>question</key>
+		<string>If you could choose one book as a mandatory read for all high school students, which book would you choose?</string>
+	</dict>
+	<dict>
+		<key>category</key>
+		<string>Parallel Universe</string>
+		<key>intro</key>
+		<string></string>
+		<key>min</key>
+		<integer>2</integer>
+		<key>max</key>
+		<integer>3</integer>
+		<key>source</key>
+		<string>http://www.dist8tm.org/docs/TM-%20365%20Sample%20Table%20Topics%20Questions.pdf</string>
+		<key>question</key>
+		<string>Would you rather have less work or more work you actually enjoy doing?</string>
+	</dict>
+	<dict>
+		<key>category</key>
+		<string>Idol Worship</string>
+		<key>intro</key>
+		<string></string>
+		<key>min</key>
+		<integer>2</integer>
+		<key>max</key>
+		<integer>3</integer>
+		<key>source</key>
+		<string>http://www.dist8tm.org/docs/TM-%20365%20Sample%20Table%20Topics%20Questions.pdf</string>
+		<key>question</key>
+		<string>What is important enough to go to war over?</string>
+	</dict>
+	<dict>
+		<key>category</key>
+		<string>Define This</string>
+		<key>intro</key>
+		<string></string>
+		<key>min</key>
+		<integer>2</integer>
+		<key>max</key>
+		<integer>3</integer>
+		<key>source</key>
+		<string>http://www.dist8tm.org/docs/TM-%20365%20Sample%20Table%20Topics%20Questions.pdf</string>
+		<key>question</key>
+		<string>Which is worse, failing or never trying?</string>
+	</dict>
+	<dict>
+		<key>category</key>
+		<string>Time Machine</string>
+		<key>intro</key>
+		<string></string>
+		<key>min</key>
+		<integer>2</integer>
+		<key>max</key>
+		<integer>3</integer>
+		<key>source</key>
+		<string>http://www.dist8tm.org/docs/TM-%20365%20Sample%20Table%20Topics%20Questions.pdf</string>
+		<key>question</key>
+		<string>When was the last time you listened to the sound of your own breathing?</string>
+	</dict>
+	<dict>
+		<key>category</key>
+		<string>Mirror Mirror</string>
+		<key>intro</key>
+		<string></string>
+		<key>min</key>
+		<integer>2</integer>
+		<key>max</key>
+		<integer>3</integer>
+		<key>source</key>
+		<string>http://www.dist8tm.org/docs/TM-%20365%20Sample%20Table%20Topics%20Questions.pdf</string>
+		<key>question</key>
+		<string>What&apos;s something you know you do differently than most people?</string>
+	</dict>
+	<dict>
+		<key>category</key>
+		<string>Define This</string>
+		<key>intro</key>
+		<string></string>
+		<key>min</key>
+		<integer>2</integer>
+		<key>max</key>
+		<integer>3</integer>
+		<key>source</key>
+		<string>http://www.dist8tm.org/docs/TM-%20365%20Sample%20Table%20Topics%20Questions.pdf</string>
+		<key>question</key>
+		<string>What does &apos;The American Dream&apos; mean to you?</string>
+	</dict>
+	<dict>
+		<key>category</key>
+		<string>Mirror Mirror</string>
+		<key>intro</key>
+		<string></string>
+		<key>min</key>
+		<integer>2</integer>
+		<key>max</key>
+		<integer>3</integer>
+		<key>source</key>
+		<string>http://www.dist8tm.org/docs/TM-%20365%20Sample%20Table%20Topics%20Questions.pdf</string>
+		<key>question</key>
+		<string>Would you rather be a worried genius or a joyful simpleton?</string>
+	</dict>
+	<dict>
+		<key>category</key>
+		<string>Learning</string>
+		<key>intro</key>
+		<string></string>
+		<key>min</key>
+		<integer>2</integer>
+		<key>max</key>
+		<integer>3</integer>
+		<key>source</key>
+		<string>http://www.dist8tm.org/docs/TM-%20365%20Sample%20Table%20Topics%20Questions.pdf</string>
+		<key>question</key>
+		<string>If you could instill one piece of advice in a newborn baby&apos;s mind, what advice would you give?</string>
+	</dict>
+	<dict>
+		<key>category</key>
+		<string>Idol Worship</string>
+		<key>intro</key>
+		<string></string>
+		<key>min</key>
+		<integer>2</integer>
+		<key>max</key>
+		<integer>3</integer>
+		<key>source</key>
+		<string>http://www.dist8tm.org/docs/TM-%20365%20Sample%20Table%20Topics%20Questions.pdf</string>
+		<key>question</key>
+		<string>What is the most desirable trait another person can possess?</string>
+	</dict>
+	<dict>
+		<key>category</key>
+		<string>Mirror Mirror</string>
+		<key>intro</key>
+		<string></string>
+		<key>min</key>
+		<integer>2</integer>
+		<key>max</key>
+		<integer>3</integer>
+		<key>source</key>
+		<string>http://www.dist8tm.org/docs/TM-%20365%20Sample%20Table%20Topics%20Questions.pdf</string>
+		<key>question</key>
+		<string>What are you most grateful for?</string>
+	</dict>
+	<dict>
+		<key>category</key>
+		<string>Define This</string>
+		<key>intro</key>
+		<string></string>
+		<key>min</key>
+		<integer>2</integer>
+		<key>max</key>
+		<integer>3</integer>
+		<key>source</key>
+		<string>http://www.dist8tm.org/docs/TM-%20365%20Sample%20Table%20Topics%20Questions.pdf</string>
+		<key>question</key>
+		<string>Is stealing to feed a starving child wrong?</string>
+	</dict>
+	<dict>
+		<key>category</key>
+		<string>Mirror Mirror</string>
+		<key>intro</key>
+		<string></string>
+		<key>min</key>
+		<integer>2</integer>
+		<key>max</key>
+		<integer>3</integer>
+		<key>source</key>
+		<string>http://www.dist8tm.org/docs/TM-%20365%20Sample%20Table%20Topics%20Questions.pdf</string>
+		<key>question</key>
+		<string>What do you want most?</string>
+	</dict>
+	<dict>
+		<key>category</key>
+		<string>Mirror Mirror</string>
+		<key>intro</key>
+		<string></string>
+		<key>min</key>
+		<integer>2</integer>
+		<key>max</key>
+		<integer>3</integer>
+		<key>source</key>
+		<string>http://www.dist8tm.org/docs/TM-%20365%20Sample%20Table%20Topics%20Questions.pdf</string>
+		<key>question</key>
+		<string>Are you more worried about doing things right, or doing the right things?</string>
+	</dict>
+	<dict>
+		<key>category</key>
+		<string>Learning</string>
+		<key>intro</key>
+		<string></string>
+		<key>min</key>
+		<integer>2</integer>
+		<key>max</key>
+		<integer>3</integer>
+		<key>source</key>
+		<string>http://www.dist8tm.org/docs/TM-%20365%20Sample%20Table%20Topics%20Questions.pdf</string>
+		<key>question</key>
+		<string>What has life taught you recently?</string>
+	</dict>
+	<dict>
+		<key>category</key>
+		<string>Parallel Universe</string>
+		<key>intro</key>
+		<string></string>
+		<key>min</key>
+		<integer>2</integer>
+		<key>max</key>
+		<integer>3</integer>
+		<key>source</key>
+		<string>http://www.dist8tm.org/docs/TM-%20365%20Sample%20Table%20Topics%20Questions.pdf</string>
+		<key>question</key>
+		<string>What is the one thing you would most like to change about the world?</string>
+	</dict>
+	<dict>
+		<key>category</key>
+		<string>Hobbies</string>
+		<key>intro</key>
+		<string></string>
+		<key>min</key>
+		<integer>2</integer>
+		<key>max</key>
+		<integer>3</integer>
+		<key>source</key>
+		<string>http://www.dist8tm.org/docs/TM-%20365%20Sample%20Table%20Topics%20Questions.pdf</string>
+		<key>question</key>
+		<string>Where do you find inspiration?</string>
+	</dict>
+	<dict>
+		<key>category</key>
+		<string>Mirror Mirror</string>
+		<key>intro</key>
+		<string></string>
+		<key>min</key>
+		<integer>2</integer>
+		<key>max</key>
+		<integer>3</integer>
+		<key>source</key>
+		<string>http://www.dist8tm.org/docs/TM-%20365%20Sample%20Table%20Topics%20Questions.pdf</string>
+		<key>question</key>
+		<string>Can you describe your life in a six word sentence?</string>
+	</dict>
+	<dict>
+		<key>category</key>
+		<string>Learning</string>
+		<key>intro</key>
+		<string></string>
+		<key>min</key>
+		<integer>2</integer>
+		<key>max</key>
+		<integer>3</integer>
+		<key>source</key>
+		<string>http://www.dist8tm.org/docs/TM-%20365%20Sample%20Table%20Topics%20Questions.pdf</string>
+		<key>question</key>
+		<string>If we learn from our mistakes, why are we always so afraid to make a mistake?</string>
+	</dict>
+	<dict>
+		<key>category</key>
+		<string>Mirror Mirror</string>
+		<key>intro</key>
+		<string></string>
+		<key>min</key>
+		<integer>2</integer>
+		<key>max</key>
+		<integer>3</integer>
+		<key>source</key>
+		<string>http://www.dist8tm.org/docs/TM-%20365%20Sample%20Table%20Topics%20Questions.pdf</string>
+		<key>question</key>
+		<string>What impact do you want to leave on the world?</string>
+	</dict>
+	<dict>
+		<key>category</key>
+		<string>Mirror Mirror</string>
+		<key>intro</key>
+		<string></string>
+		<key>min</key>
+		<integer>2</integer>
+		<key>max</key>
+		<integer>3</integer>
+		<key>source</key>
+		<string>http://www.dist8tm.org/docs/TM-%20365%20Sample%20Table%20Topics%20Questions.pdf</string>
+		<key>question</key>
+		<string>What is the most defining moment of your life thus far?</string>
+	</dict>
+	<dict>
+		<key>category</key>
+		<string>Mirror Mirror</string>
+		<key>intro</key>
+		<string></string>
+		<key>min</key>
+		<integer>2</integer>
+		<key>max</key>
+		<integer>3</integer>
+		<key>source</key>
+		<string>http://www.dist8tm.org/docs/TM-%20365%20Sample%20Table%20Topics%20Questions.pdf</string>
+		<key>question</key>
+		<string>In the haste of your daily life, what are you not seeing?</string>
+	</dict>
+	<dict>
+		<key>category</key>
+		<string>Idol Worship</string>
+		<key>intro</key>
+		<string></string>
+		<key>min</key>
+		<integer>2</integer>
+		<key>max</key>
+		<integer>3</integer>
+		<key>source</key>
+		<string>http://www.dist8tm.org/docs/TM-%20365%20Sample%20Table%20Topics%20Questions.pdf</string>
+		<key>question</key>
+		<string>If life is so short, why do we do so many things we don&apos;t like and like so many things we don&apos;t do?</string>
+	</dict>
+	<dict>
+		<key>category</key>
+		<string>Hobbies</string>
+		<key>intro</key>
+		<string></string>
+		<key>min</key>
+		<integer>2</integer>
+		<key>max</key>
+		<integer>3</integer>
+		<key>source</key>
+		<string>http://www.dist8tm.org/docs/TM-%20365%20Sample%20Table%20Topics%20Questions.pdf</string>
+		<key>question</key>
+		<string>What lifts your spirits when life gets you down?</string>
+	</dict>
+	<dict>
+		<key>category</key>
+		<string>Daredevil</string>
+		<key>intro</key>
+		<string></string>
+		<key>min</key>
+		<integer>2</integer>
+		<key>max</key>
+		<integer>3</integer>
+		<key>source</key>
+		<string>http://www.dist8tm.org/docs/TM-%20365%20Sample%20Table%20Topics%20Questions.pdf</string>
+		<key>question</key>
+		<string>Have you ever regretted something you did not say or do?</string>
+	</dict>
+	<dict>
+		<key>category</key>
+		<string>Mirror Mirror</string>
+		<key>intro</key>
+		<string></string>
+		<key>min</key>
+		<integer>2</integer>
+		<key>max</key>
+		<integer>3</integer>
+		<key>source</key>
+		<string>http://www.dist8tm.org/docs/TM-%20365%20Sample%20Table%20Topics%20Questions.pdf</string>
+		<key>question</key>
+		<string>Has your greatest fear ever come true?</string>
+	</dict>
+	<dict>
+		<key>category</key>
+		<string>Idol Worship</string>
+		<key>intro</key>
+		<string></string>
+		<key>min</key>
+		<integer>2</integer>
+		<key>max</key>
+		<integer>3</integer>
+		<key>source</key>
+		<string>http://www.dist8tm.org/docs/TM-%20365%20Sample%20Table%20Topics%20Questions.pdf</string>
+		<key>question</key>
+		<string>Why do we think of others the most when they&apos;re gone?</string>
+	</dict>
+	<dict>
+		<key>category</key>
+		<string>Time Machine</string>
+		<key>intro</key>
+		<string></string>
+		<key>min</key>
+		<integer>2</integer>
+		<key>max</key>
+		<integer>3</integer>
+		<key>source</key>
+		<string>http://www.dist8tm.org/docs/TM-%20365%20Sample%20Table%20Topics%20Questions.pdf</string>
+		<key>question</key>
+		<string>What is your most beloved childhood memory?</string>
+	</dict>
+	<dict>
+		<key>category</key>
+		<string>Define This</string>
+		<key>intro</key>
+		<string></string>
+		<key>min</key>
+		<integer>2</integer>
+		<key>max</key>
+		<integer>3</integer>
+		<key>source</key>
+		<string>http://www.dist8tm.org/docs/TM-%20365%20Sample%20Table%20Topics%20Questions.pdf</string>
+		<key>question</key>
+		<string>Is it more important to love or be loved?</string>
+	</dict>
+	<dict>
+		<key>category</key>
+		<string>Parallel Universe</string>
+		<key>intro</key>
+		<string>Karma is the belief that the good or bad things you do to people will eventually come back to bless you or to bite you.</string>
+		<key>min</key>
+		<integer>2</integer>
+		<key>max</key>
+		<integer>3</integer>
+		<key>source</key>
+		<string>http://www.dist8tm.org/docs/TM-%20365%20Sample%20Table%20Topics%20Questions.pdf</string>
+		<key>question</key>
+		<string>If it all came back around to you, would it help you or hurt you?</string>
+	</dict>
+	<dict>
+		<key>category</key>
+		<string>Time Machine</string>
+		<key>intro</key>
+		<string></string>
+		<key>min</key>
+		<integer>2</integer>
+		<key>max</key>
+		<integer>3</integer>
+		<key>source</key>
+		<string>http://www.dist8tm.org/docs/TM-%20365%20Sample%20Table%20Topics%20Questions.pdf</string>
+		<key>question</key>
+		<string>If you had the chance to go back in time and change one thing would you do it?</string>
+	</dict>
+	<dict>
+		<key>category</key>
+		<string>Parallel Universe</string>
+		<key>intro</key>
+		<string></string>
+		<key>min</key>
+		<integer>2</integer>
+		<key>max</key>
+		<integer>3</integer>
+		<key>source</key>
+		<string>http://www.dist8tm.org/docs/TM-%20365%20Sample%20Table%20Topics%20Questions.pdf</string>
+		<key>question</key>
+		<string>If a doctor gave you five years to live, what would you try to accomplish?</string>
+	</dict>
+	<dict>
+		<key>category</key>
+		<string>Define This</string>
+		<key>intro</key>
+		<string></string>
+		<key>min</key>
+		<integer>2</integer>
+		<key>max</key>
+		<integer>3</integer>
+		<key>source</key>
+		<string>http://www.dist8tm.org/docs/TM-%20365%20Sample%20Table%20Topics%20Questions.pdf</string>
+		<key>question</key>
+		<string>What is the difference between falling in love and being in love?</string>
+	</dict>
+	<dict>
+		<key>category</key>
+		<string>Daredevil</string>
+		<key>intro</key>
+		<string></string>
+		<key>min</key>
+		<integer>2</integer>
+		<key>max</key>
+		<integer>3</integer>
+		<key>source</key>
+		<string>http://www.dist8tm.org/docs/TM-%20365%20Sample%20Table%20Topics%20Questions.pdf</string>
+		<key>question</key>
+		<string>Who do you think stands between you and happiness?</string>
+	</dict>
+	<dict>
+		<key>category</key>
+		<string>Define This</string>
+		<key>intro</key>
+		<string></string>
+		<key>min</key>
+		<integer>2</integer>
+		<key>max</key>
+		<integer>3</integer>
+		<key>source</key>
+		<string>http://www.dist8tm.org/docs/TM-%20365%20Sample%20Table%20Topics%20Questions.pdf</string>
+		<key>question</key>
+		<string>What is the difference between innocence and ignorance?</string>
+	</dict>
+	<dict>
+		<key>category</key>
+		<string>Famous Words</string>
+		<key>intro</key>
+		<string></string>
+		<key>min</key>
+		<integer>2</integer>
+		<key>max</key>
+		<integer>3</integer>
+		<key>source</key>
+		<string>http://www.dist8tm.org/docs/TM-%20365%20Sample%20Table%20Topics%20Questions.pdf</string>
+		<key>question</key>
+		<string>What is the simplest truth you can express in words?</string>
+	</dict>
+	<dict>
+		<key>category</key>
+		<string>Mirror Mirror</string>
+		<key>intro</key>
+		<string></string>
+		<key>min</key>
+		<integer>2</integer>
+		<key>max</key>
+		<integer>3</integer>
+		<key>source</key>
+		<string>http://www.dist8tm.org/docs/TM-%20365%20Sample%20Table%20Topics%20Questions.pdf</string>
+		<key>question</key>
+		<string>What gives your life meaning?</string>
+	</dict>
+	<dict>
+		<key>category</key>
+		<string>Define This</string>
+		<key>intro</key>
+		<string></string>
+		<key>min</key>
+		<integer>2</integer>
+		<key>max</key>
+		<integer>3</integer>
+		<key>source</key>
+		<string>http://www.dist8tm.org/docs/TM-%20365%20Sample%20Table%20Topics%20Questions.pdf</string>
+		<key>question</key>
+		<string>Can there be happiness without sadness? Pleasure without pain? Peace without war?</string>
+	</dict>
+	<dict>
+		<key>category</key>
+		<string>Mirror Mirror</string>
+		<key>intro</key>
+		<string></string>
+		<key>min</key>
+		<integer>2</integer>
+		<key>max</key>
+		<integer>3</integer>
+		<key>source</key>
+		<string>http://www.dist8tm.org/docs/TM-%20365%20Sample%20Table%20Topics%20Questions.pdf</string>
+		<key>question</key>
+		<string>What&apos;s the one thing you&apos;d like others to remember about you at the end of your life?</string>
+	</dict>
+	<dict>
+		<key>category</key>
+		<string>Define This</string>
+		<key>intro</key>
+		<string></string>
+		<key>min</key>
+		<integer>2</integer>
+		<key>max</key>
+		<integer>3</integer>
+		<key>source</key>
+		<string>http://www.dist8tm.org/docs/TM-%20365%20Sample%20Table%20Topics%20Questions.pdf</string>
+		<key>question</key>
+		<string>Is there such a thing as perfect?</string>
+	</dict>
+	<dict>
+		<key>category</key>
+		<string>Daredevil</string>
+		<key>intro</key>
+		<string></string>
+		<key>min</key>
+		<integer>2</integer>
+		<key>max</key>
+		<integer>3</integer>
+		<key>source</key>
+		<string>http://www.dist8tm.org/docs/TM-%20365%20Sample%20Table%20Topics%20Questions.pdf</string>
+		<key>question</key>
+		<string>To what degree have you actually controlled the course your life has taken?</string>
+	</dict>
+	<dict>
+		<key>category</key>
+		<string>Define This</string>
+		<key>intro</key>
+		<string></string>
+		<key>min</key>
+		<integer>2</integer>
+		<key>max</key>
+		<integer>3</integer>
+		<key>source</key>
+		<string>http://www.dist8tm.org/docs/TM-%20365%20Sample%20Table%20Topics%20Questions.pdf</string>
+		<key>question</key>
+		<string>What does it mean to be human?</string>
+	</dict>
+	<dict>
+		<key>category</key>
+		<string>Mirror Mirror</string>
+		<key>intro</key>
+		<string></string>
+		<key>min</key>
+		<integer>2</integer>
+		<key>max</key>
+		<integer>3</integer>
+		<key>source</key>
+		<string>http://www.dist8tm.org/docs/TM-%20365%20Sample%20Table%20Topics%20Questions.pdf</string>
+		<key>question</key>
+		<string>If you looked into the heart of your enemy, what do you think you would find that is different from what is in your own heart?</string>
+	</dict>
+	<dict>
+		<key>category</key>
+		<string>Mirror Mirror</string>
+		<key>intro</key>
+		<string></string>
+		<key>min</key>
+		<integer>2</integer>
+		<key>max</key>
+		<integer>3</integer>
+		<key>source</key>
+		<string>http://www.dist8tm.org/docs/TM-%20365%20Sample%20Table%20Topics%20Questions.pdf</string>
+		<key>question</key>
+		<string>What do you love most about yourself?</string>
+	</dict>
+	<dict>
+		<key>category</key>
+		<string>Parallel Universe</string>
+		<key>intro</key>
+		<string></string>
+		<key>min</key>
+		<integer>2</integer>
+		<key>max</key>
+		<integer>3</integer>
+		<key>source</key>
+		<string>http://www.dist8tm.org/docs/TM-%20365%20Sample%20Table%20Topics%20Questions.pdf</string>
+		<key>question</key>
+		<string>Where would you most like to go and why?</string>
+	</dict>
+	<dict>
+		<key>category</key>
+		<string>Famous Words</string>
+		<key>intro</key>
+		<string></string>
+		<key>min</key>
+		<integer>2</integer>
+		<key>max</key>
+		<integer>3</integer>
+		<key>source</key>
+		<string>http://www.dist8tm.org/docs/TM-%20365%20Sample%20Table%20Topics%20Questions.pdf</string>
+		<key>question</key>
+		<string>Is it more important to do what you love or to love what you are doing?</string>
+	</dict>
+	<dict>
+		<key>category</key>
+		<string>Parallel Universe</string>
+		<key>intro</key>
+		<string></string>
+		<key>min</key>
+		<integer>2</integer>
+		<key>max</key>
+		<integer>3</integer>
+		<key>source</key>
+		<string>http://www.dist8tm.org/docs/TM-%20365%20Sample%20Table%20Topics%20Questions.pdf</string>
+		<key>question</key>
+		<string>What do you imagine yourself doing ten years from now?</string>
+	</dict>
+	<dict>
+		<key>category</key>
+		<string>Famous Words</string>
+		<key>intro</key>
+		<string></string>
+		<key>min</key>
+		<integer>2</integer>
+		<key>max</key>
+		<integer>3</integer>
+		<key>source</key>
+		<string>http://www.dist8tm.org/docs/TM-%20365%20Sample%20Table%20Topics%20Questions.pdf</string>
+		<key>question</key>
+		<string>What small act of kindness were you once shown that you will never forget?</string>
+	</dict>
+	<dict>
+		<key>category</key>
+		<string>Time Machine</string>
+		<key>intro</key>
+		<string></string>
+		<key>min</key>
+		<integer>2</integer>
+		<key>max</key>
+		<integer>3</integer>
+		<key>source</key>
+		<string>http://www.dist8tm.org/docs/TM-%20365%20Sample%20Table%20Topics%20Questions.pdf</string>
+		<key>question</key>
+		<string>What is your happiest childhood memory? What makes it so special?</string>
+	</dict>
+	<dict>
+		<key>category</key>
+		<string>Mirror Mirror</string>
+		<key>intro</key>
+		<string></string>
+		<key>min</key>
+		<integer>2</integer>
+		<key>max</key>
+		<integer>3</integer>
+		<key>source</key>
+		<string>http://www.dist8tm.org/docs/TM-%20365%20Sample%20Table%20Topics%20Questions.pdf</string>
+		<key>question</key>
+		<string>Do you own your things or do your things own you?</string>
+	</dict>
+	<dict>
+		<key>category</key>
+		<string>Parallel Universe</string>
+		<key>intro</key>
+		<string></string>
+		<key>min</key>
+		<integer>2</integer>
+		<key>max</key>
+		<integer>3</integer>
+		<key>source</key>
+		<string>http://www.dist8tm.org/docs/TM-%20365%20Sample%20Table%20Topics%20Questions.pdf</string>
+		<key>question</key>
+		<string>Would you rather lose all of your old memories or never be able to make new ones?</string>
+	</dict>
+	<dict>
+		<key>category</key>
+		<string>Daredevil</string>
+		<key>intro</key>
+		<string></string>
+		<key>min</key>
+		<integer>2</integer>
+		<key>max</key>
+		<integer>3</integer>
+		<key>source</key>
+		<string>http://www.dist8tm.org/docs/TM-%20365%20Sample%20Table%20Topics%20Questions.pdf</string>
+		<key>question</key>
+		<string>How do you deal with someone in a position of power who wants you to fail?</string>
+	</dict>
+	<dict>
+		<key>category</key>
+		<string>Mirror Mirror</string>
+		<key>intro</key>
+		<string></string>
+		<key>min</key>
+		<integer>2</integer>
+		<key>max</key>
+		<integer>3</integer>
+		<key>source</key>
+		<string>http://www.dist8tm.org/docs/TM-%20365%20Sample%20Table%20Topics%20Questions.pdf</string>
+		<key>question</key>
+		<string>What do you have that you cannot live without?</string>
+	</dict>
+	<dict>
+		<key>category</key>
+		<string>Mirror Mirror</string>
+		<key>intro</key>
+		<string></string>
+		<key>min</key>
+		<integer>2</integer>
+		<key>max</key>
+		<integer>3</integer>
+		<key>source</key>
+		<string>http://www.dist8tm.org/docs/TM-%20365%20Sample%20Table%20Topics%20Questions.pdf</string>
+		<key>question</key>
+		<string>When you close your eyes what do you see?</string>
+	</dict>
+	<dict>
+		<key>category</key>
+		<string>Mirror Mirror</string>
+		<key>intro</key>
+		<string></string>
+		<key>min</key>
+		<integer>2</integer>
+		<key>max</key>
+		<integer>3</integer>
+		<key>source</key>
+		<string>http://www.dist8tm.org/docs/TM-%20365%20Sample%20Table%20Topics%20Questions.pdf</string>
+		<key>question</key>
+		<string>What sustains you on a daily basis?</string>
+	</dict>
+	<dict>
+		<key>category</key>
+		<string>Mirror Mirror</string>
+		<key>intro</key>
+		<string></string>
+		<key>min</key>
+		<integer>2</integer>
+		<key>max</key>
+		<integer>3</integer>
+		<key>source</key>
+		<string>http://www.dist8tm.org/docs/TM-%20365%20Sample%20Table%20Topics%20Questions.pdf</string>
+		<key>question</key>
+		<string>What are your top five personal values?</string>
+	</dict>
+	<dict>
+		<key>category</key>
+		<string>Define This</string>
+		<key>intro</key>
+		<string></string>
+		<key>min</key>
+		<integer>2</integer>
+		<key>max</key>
+		<integer>3</integer>
+		<key>source</key>
+		<string>http://www.dist8tm.org/docs/TM-%20365%20Sample%20Table%20Topics%20Questions.pdf</string>
+		<key>question</key>
+		<string>Why must you love someone enough to let them go?</string>
+	</dict>
+	<dict>
+		<key>category</key>
+		<string>Hobbies</string>
+		<key>intro</key>
+		<string></string>
+		<key>min</key>
+		<integer>2</integer>
+		<key>max</key>
+		<integer>3</integer>
+		<key>source</key>
+		<string>http://www.dist8tm.org/docs/TM-%20365%20Sample%20Table%20Topics%20Questions.pdf</string>
+		<key>question</key>
+		<string>Do you ever celebrate the green lights?</string>
+	</dict>
+	<dict>
+		<key>category</key>
+		<string>Mirror Mirror</string>
+		<key>intro</key>
+		<string></string>
+		<key>min</key>
+		<integer>2</integer>
+		<key>max</key>
+		<integer>3</integer>
+		<key>source</key>
+		<string>http://www.dist8tm.org/docs/TM-%20365%20Sample%20Table%20Topics%20Questions.pdf</string>
+		<key>question</key>
+		<string>What personal prisons have you built out of fears?</string>
+	</dict>
+	<dict>
+		<key>category</key>
+		<string>Daredevil</string>
+		<key>intro</key>
+		<string></string>
+		<key>min</key>
+		<integer>2</integer>
+		<key>max</key>
+		<integer>3</integer>
+		<key>source</key>
+		<string>http://www.dist8tm.org/docs/TM-%20365%20Sample%20Table%20Topics%20Questions.pdf</string>
+		<key>question</key>
+		<string>What one thing have you not done that you really want to do?</string>
+	</dict>
+	<dict>
+		<key>category</key>
+		<string>Mirror Mirror</string>
+		<key>intro</key>
+		<string></string>
+		<key>min</key>
+		<integer>2</integer>
+		<key>max</key>
+		<integer>3</integer>
+		<key>source</key>
+		<string>http://www.dist8tm.org/docs/TM-%20365%20Sample%20Table%20Topics%20Questions.pdf</string>
+		<key>question</key>
+		<string>Why are you, you?</string>
+	</dict>
+	<dict>
+		<key>category</key>
+		<string>Daredevil</string>
+		<key>intro</key>
+		<string></string>
+		<key>min</key>
+		<integer>2</integer>
+		<key>max</key>
+		<integer>3</integer>
+		<key>source</key>
+		<string>http://www.dist8tm.org/docs/TM-%20365%20Sample%20Table%20Topics%20Questions.pdf</string>
+		<key>question</key>
+		<string>If you haven&apos;t achieved it yet what do you have to lose?</string>
+	</dict>
+	<dict>
+		<key>category</key>
+		<string>Mirror Mirror</string>
+		<key>intro</key>
+		<string></string>
+		<key>min</key>
+		<integer>2</integer>
+		<key>max</key>
+		<integer>3</integer>
+		<key>source</key>
+		<string>http://www.dist8tm.org/docs/TM-%20365%20Sample%20Table%20Topics%20Questions.pdf</string>
+		<key>question</key>
+		<string>What three words would you use to describe the last three months of your life?</string>
+	</dict>
+	<dict>
+		<key>category</key>
+		<string>Define This</string>
+		<key>intro</key>
+		<string></string>
+		<key>min</key>
+		<integer>2</integer>
+		<key>max</key>
+		<integer>3</integer>
+		<key>source</key>
+		<string>http://www.dist8tm.org/docs/TM-%20365%20Sample%20Table%20Topics%20Questions.pdf</string>
+		<key>question</key>
+		<string>Is it ever right to do the wrong thing? Is it ever wrong to do the right thing?</string>
+	</dict>
+	<dict>
+		<key>category</key>
+		<string>Define This</string>
+		<key>intro</key>
+		<string></string>
+		<key>min</key>
+		<integer>2</integer>
+		<key>max</key>
+		<integer>3</integer>
+		<key>source</key>
+		<string>http://www.dist8tm.org/docs/TM-%20365%20Sample%20Table%20Topics%20Questions.pdf</string>
+		<key>question</key>
+		<string>How would you describe &apos;freedom&apos; in your own words?</string>
+	</dict>
+	<dict>
+		<key>category</key>
+		<string>Mirror Mirror</string>
+		<key>intro</key>
+		<string></string>
+		<key>min</key>
+		<integer>2</integer>
+		<key>max</key>
+		<integer>3</integer>
+		<key>source</key>
+		<string>http://www.dist8tm.org/docs/TM-%20365%20Sample%20Table%20Topics%20Questions.pdf</string>
+		<key>question</key>
+		<string>What is the most important thing you could do right now in your personal life?</string>
+	</dict>
+	<dict>
+		<key>category</key>
+		<string>Parallel Universe</string>
+		<key>intro</key>
+		<string></string>
+		<key>min</key>
+		<integer>2</integer>
+		<key>max</key>
+		<integer>3</integer>
+		<key>source</key>
+		<string>http://www.dist8tm.org/docs/TM-%20365%20Sample%20Table%20Topics%20Questions.pdf</string>
+		<key>question</key>
+		<string>If you could ask one person, alive or dead, only one question, who would you ask and what would you ask?</string>
+	</dict>
+	<dict>
+		<key>category</key>
+		<string>Parallel Universe</string>
+		<key>intro</key>
+		<string></string>
+		<key>min</key>
+		<integer>2</integer>
+		<key>max</key>
+		<integer>3</integer>
+		<key>source</key>
+		<string>http://www.dist8tm.org/docs/TM-%20365%20Sample%20Table%20Topics%20Questions.pdf</string>
+		<key>question</key>
+		<string>If happiness was the national currency, what kind of work would make you rich?</string>
+	</dict>
+	<dict>
+		<key>category</key>
+		<string>Hobbies</string>
+		<key>intro</key>
+		<string></string>
+		<key>min</key>
+		<integer>2</integer>
+		<key>max</key>
+		<integer>3</integer>
+		<key>source</key>
+		<string>http://www.dist8tm.org/docs/TM-%20365%20Sample%20Table%20Topics%20Questions.pdf</string>
+		<key>question</key>
+		<string>What is your number one goal for the next six months?</string>
+	</dict>
+	<dict>
+		<key>category</key>
+		<string>Parallel Universe</string>
+		<key>intro</key>
+		<string></string>
+		<key>min</key>
+		<integer>2</integer>
+		<key>max</key>
+		<integer>3</integer>
+		<key>source</key>
+		<string>http://www.dist8tm.org/docs/TM-%20365%20Sample%20Table%20Topics%20Questions.pdf</string>
+		<key>question</key>
+		<string>Would you ever give up your life to save someone else?</string>
+	</dict>
+	<dict>
+		<key>category</key>
+		<string>Mirror Mirror</string>
+		<key>intro</key>
+		<string></string>
+		<key>min</key>
+		<integer>2</integer>
+		<key>max</key>
+		<integer>3</integer>
+		<key>source</key>
+		<string>http://www.dist8tm.org/docs/TM-%20365%20Sample%20Table%20Topics%20Questions.pdf</string>
+		<key>question</key>
+		<string>Are you happy with yourself?</string>
+	</dict>
+	<dict>
+		<key>category</key>
+		<string>Define This</string>
+		<key>intro</key>
+		<string></string>
+		<key>min</key>
+		<integer>2</integer>
+		<key>max</key>
+		<integer>3</integer>
+		<key>source</key>
+		<string>http://www.dist8tm.org/docs/TM-%20365%20Sample%20Table%20Topics%20Questions.pdf</string>
+		<key>question</key>
+		<string>What is the meaning of &apos;peace&apos; to you?</string>
+	</dict>
+	<dict>
+		<key>category</key>
+		<string>Famous Words</string>
+		<key>intro</key>
+		<string></string>
+		<key>min</key>
+		<integer>2</integer>
+		<key>max</key>
+		<integer>3</integer>
+		<key>source</key>
+		<string>http://www.dist8tm.org/docs/TM-%20365%20Sample%20Table%20Topics%20Questions.pdf</string>
+		<key>question</key>
+		<string>What are three moral rules you will never break?</string>
+	</dict>
+	<dict>
+		<key>category</key>
+		<string>Define This</string>
+		<key>intro</key>
+		<string></string>
+		<key>min</key>
+		<integer>2</integer>
+		<key>max</key>
+		<integer>3</integer>
+		<key>source</key>
+		<string>http://www.dist8tm.org/docs/TM-%20365%20Sample%20Table%20Topics%20Questions.pdf</string>
+		<key>question</key>
+		<string>What does it mean to allow another person to truly love you?</string>
+	</dict>
+	<dict>
+		<key>category</key>
+		<string>Mirror Mirror</string>
+		<key>intro</key>
+		<string></string>
+		<key>min</key>
+		<integer>2</integer>
+		<key>max</key>
+		<integer>3</integer>
+		<key>source</key>
+		<string>http://www.dist8tm.org/docs/TM-%20365%20Sample%20Table%20Topics%20Questions.pdf</string>
+		<key>question</key>
+		<string>Who or what do you think of when you think of love?</string>
+	</dict>
+	<dict>
+		<key>category</key>
+		<string>Parallel Universe</string>
+		<key>intro</key>
+		<string></string>
+		<key>min</key>
+		<integer>2</integer>
+		<key>max</key>
+		<integer>3</integer>
+		<key>source</key>
+		<string>http://www.dist8tm.org/docs/TM-%20365%20Sample%20Table%20Topics%20Questions.pdf</string>
+		<key>question</key>
+		<string>If your life was a novel, what would be the title and how would your story end?</string>
+	</dict>
+	<dict>
+		<key>category</key>
+		<string>Mirror Mirror</string>
+		<key>intro</key>
+		<string></string>
+		<key>min</key>
+		<integer>2</integer>
+		<key>max</key>
+		<integer>3</integer>
+		<key>source</key>
+		<string>http://www.dist8tm.org/docs/TM-%20365%20Sample%20Table%20Topics%20Questions.pdf</string>
+		<key>question</key>
+		<string>What would you not give up for $1,000,000 in cash?</string>
+	</dict>
+	<dict>
+		<key>category</key>
+		<string>Hobbies</string>
+		<key>intro</key>
+		<string></string>
+		<key>min</key>
+		<integer>2</integer>
+		<key>max</key>
+		<integer>3</integer>
+		<key>source</key>
+		<string>http://www.dist8tm.org/docs/TM-%20365%20Sample%20Table%20Topics%20Questions.pdf</string>
+		<key>question</key>
+		<string>When do you feel most like yourself?</string>
+	</dict>
+	<dict>
+		<key>category</key>
+		<string>Mirror Mirror</string>
+		<key>intro</key>
+		<string></string>
+		<key>min</key>
+		<integer>2</integer>
+		<key>max</key>
+		<integer>3</integer>
+		<key>source</key>
+		<string>http://www.dist8tm.org/docs/TM-%20365%20Sample%20Table%20Topics%20Questions.pdf</string>
+		<key>question</key>
+		<string>When you help someone do you ever think, &quot;What&apos;s in it for me?&quot;</string>
+	</dict>
+	<dict>
+		<key>category</key>
+		<string>Hobbies</string>
+		<key>intro</key>
+		<string></string>
+		<key>min</key>
+		<integer>2</integer>
+		<key>max</key>
+		<integer>3</integer>
+		<key>source</key>
+		<string>http://www.dist8tm.org/docs/TM-%20365%20Sample%20Table%20Topics%20Questions.pdf</string>
+		<key>question</key>
+		<string>What is your greatest challenge?</string>
+	</dict>
+	<dict>
+		<key>category</key>
+		<string>Famous Words</string>
+		<key>intro</key>
+		<string></string>
+		<key>min</key>
+		<integer>2</integer>
+		<key>max</key>
+		<integer>3</integer>
+		<key>source</key>
+		<string>http://www.dist8tm.org/docs/TM-%20365%20Sample%20Table%20Topics%20Questions.pdf</string>
+		<key>question</key>
+		<string>How do you know when it&apos;s time to continue holding on or time to let go?</string>
+	</dict>
+	<dict>
+		<key>category</key>
+		<string>Define This</string>
+		<key>intro</key>
+		<string></string>
+		<key>min</key>
+		<integer>2</integer>
+		<key>max</key>
+		<integer>3</integer>
+		<key>source</key>
+		<string>http://www.dist8tm.org/docs/TM-%20365%20Sample%20Table%20Topics%20Questions.pdf</string>
+		<key>question</key>
+		<string>How do you define success?</string>
+	</dict>
+	<dict>
+		<key>category</key>
+		<string>Time Machine</string>
+		<key>intro</key>
+		<string></string>
+		<key>min</key>
+		<integer>2</integer>
+		<key>max</key>
+		<integer>3</integer>
+		<key>source</key>
+		<string>http://www.dist8tm.org/docs/TM-%20365%20Sample%20Table%20Topics%20Questions.pdf</string>
+		<key>question</key>
+		<string>If someone could tell you the exact day and time you are going to die, would you want them to tell you?</string>
+	</dict>
+	<dict>
+		<key>category</key>
+		<string>Parallel Universe</string>
+		<key>intro</key>
+		<string></string>
+		<key>min</key>
+		<integer>2</integer>
+		<key>max</key>
+		<integer>3</integer>
+		<key>source</key>
+		<string>http://www.dist8tm.org/docs/TM-%20365%20Sample%20Table%20Topics%20Questions.pdf</string>
+		<key>question</key>
+		<string>If I could grant you one wish what would you wish for?</string>
+	</dict>
+	<dict>
+		<key>category</key>
+		<string>Learning</string>
+		<key>intro</key>
+		<string></string>
+		<key>min</key>
+		<integer>2</integer>
+		<key>max</key>
+		<integer>3</integer>
+		<key>source</key>
+		<string>http://www.dist8tm.org/docs/TM-%20365%20Sample%20Table%20Topics%20Questions.pdf</string>
+		<key>question</key>
+		<string>What have you read online recently that inspired you?</string>
+	</dict>
+	<dict>
+		<key>category</key>
+		<string>Learning</string>
+		<key>intro</key>
+		<string></string>
+		<key>min</key>
+		<integer>2</integer>
+		<key>max</key>
+		<integer>3</integer>
+		<key>source</key>
+		<string>http://www.dist8tm.org/docs/TM-%20365%20Sample%20Table%20Topics%20Questions.pdf</string>
+		<key>question</key>
+		<string>Why do religions that advocate unity divide the human race?</string>
+	</dict>
+	<dict>
+		<key>category</key>
+		<string>Parallel Universe</string>
+		<key>intro</key>
+		<string></string>
+		<key>min</key>
+		<integer>2</integer>
+		<key>max</key>
+		<integer>3</integer>
+		<key>source</key>
+		<string>http://www.dist8tm.org/docs/TM-%20365%20Sample%20Table%20Topics%20Questions.pdf</string>
+		<key>question</key>
+		<string>If you could live one day of your life over again, what day would you choose?</string>
+	</dict>
+	<dict>
+		<key>category</key>
+		<string>Famous Words</string>
+		<key>intro</key>
+		<string></string>
+		<key>min</key>
+		<integer>2</integer>
+		<key>max</key>
+		<integer>3</integer>
+		<key>source</key>
+		<string>http://www.dist8tm.org/docs/TM-%20365%20Sample%20Table%20Topics%20Questions.pdf</string>
+		<key>question</key>
+		<string>What can money not buy?</string>
+	</dict>
+	<dict>
+		<key>category</key>
+		<string>Mirror Mirror</string>
+		<key>intro</key>
+		<string></string>
+		<key>min</key>
+		<integer>2</integer>
+		<key>max</key>
+		<integer>3</integer>
+		<key>source</key>
+		<string>http://www.dist8tm.org/docs/TM-%20365%20Sample%20Table%20Topics%20Questions.pdf</string>
+		<key>question</key>
+		<string>If you left this life tomorrow, how would you be remembered?</string>
+	</dict>
+	<dict>
+		<key>category</key>
+		<string>Mirror Mirror</string>
+		<key>intro</key>
+		<string></string>
+		<key>min</key>
+		<integer>2</integer>
+		<key>max</key>
+		<integer>3</integer>
+		<key>source</key>
+		<string>http://www.dist8tm.org/docs/TM-%20365%20Sample%20Table%20Topics%20Questions.pdf</string>
+		<key>question</key>
+		<string>Beyond the titles that others have given you, who are you?</string>
+	</dict>
+	<dict>
+		<key>category</key>
+		<string>Parallel Universe</string>
+		<key>intro</key>
+		<string></string>
+		<key>min</key>
+		<integer>2</integer>
+		<key>max</key>
+		<integer>3</integer>
+		<key>source</key>
+		<string>http://www.dist8tm.org/docs/TM-%20365%20Sample%20Table%20Topics%20Questions.pdf</string>
+		<key>question</key>
+		<string>If you could live the next 24 hours and then erase it and start over just once, what would you do?</string>
+	</dict>
+	<dict>
+		<key>category</key>
+		<string>Famous Words</string>
+		<key>intro</key>
+		<string></string>
+		<key>min</key>
+		<integer>2</integer>
+		<key>max</key>
+		<integer>3</integer>
+		<key>source</key>
+		<string>http://www.dist8tm.org/docs/TM-%20365%20Sample%20Table%20Topics%20Questions.pdf</string>
+		<key>question</key>
+		<string>Is it possible to know the truth without challenging it first?</string>
+	</dict>
+	<dict>
+		<key>category</key>
+		<string>Hobbies</string>
+		<key>intro</key>
+		<string></string>
+		<key>min</key>
+		<integer>2</integer>
+		<key>max</key>
+		<integer>3</integer>
+		<key>source</key>
+		<string>http://www.dist8tm.org/docs/TM-%20365%20Sample%20Table%20Topics%20Questions.pdf</string>
+		<key>question</key>
+		<string>What word best describes the way you&apos;ve spent the last month of your life?</string>
+	</dict>
+	<dict>
+		<key>category</key>
+		<string>Idol Worship</string>
+		<key>intro</key>
+		<string></string>
+		<key>min</key>
+		<integer>2</integer>
+		<key>max</key>
+		<integer>3</integer>
+		<key>source</key>
+		<string>http://www.dist8tm.org/docs/TM-%20365%20Sample%20Table%20Topics%20Questions.pdf</string>
+		<key>question</key>
+		<string>What makes everyone smile?</string>
+	</dict>
+	<dict>
+		<key>category</key>
+		<string>Mirror Mirror</string>
+		<key>intro</key>
+		<string></string>
+		<key>min</key>
+		<integer>2</integer>
+		<key>max</key>
+		<integer>3</integer>
+		<key>source</key>
+		<string>http://www.dist8tm.org/docs/TM-%20365%20Sample%20Table%20Topics%20Questions.pdf</string>
+		<key>question</key>
+		<string>What do you owe yourself?</string>
+	</dict>
+	<dict>
+		<key>category</key>
+		<string>Parallel Universe</string>
+		<key>intro</key>
+		<string>MasterCard has type of commercial where it presents two or more things of monetary value and displays its worth in dollars.  The last item that it presents is a monetary value of &quot;priceless&quot;.</string>
+		<key>min</key>
+		<integer>2</integer>
+		<key>max</key>
+		<integer>3</integer>
+		<key>source</key>
+		<string>http://www.dist8tm.org/docs/TM-%20365%20Sample%20Table%20Topics%20Questions.pdf</string>
+		<key>question</key>
+		<string>What would your &apos;priceless&apos; MasterCard-style commercial be?</string>
+	</dict>
+	<dict>
+		<key>category</key>
+		<string>Time Machine</string>
+		<key>intro</key>
+		<string></string>
+		<key>min</key>
+		<integer>2</integer>
+		<key>max</key>
+		<integer>3</integer>
+		<key>source</key>
+		<string>http://www.dist8tm.org/docs/TM-%20365%20Sample%20Table%20Topics%20Questions.pdf</string>
+		<key>question</key>
+		<string>Can you think of a time when impossible became possible?</string>
+	</dict>
+	<dict>
+		<key>category</key>
+		<string>Mirror Mirror</string>
+		<key>intro</key>
+		<string></string>
+		<key>min</key>
+		<integer>2</integer>
+		<key>max</key>
+		<integer>3</integer>
+		<key>source</key>
+		<string>http://www.dist8tm.org/docs/TM-%20365%20Sample%20Table%20Topics%20Questions.pdf</string>
+		<key>question</key>
+		<string>Why do you matter?</string>
+	</dict>
+	<dict>
+		<key>category</key>
+		<string>Time Machine</string>
+		<key>intro</key>
+		<string></string>
+		<key>min</key>
+		<integer>2</integer>
+		<key>max</key>
+		<integer>3</integer>
+		<key>source</key>
+		<string>http://www.dist8tm.org/docs/TM-%20365%20Sample%20Table%20Topics%20Questions.pdf</string>
+		<key>question</key>
+		<string>How have you changed in the last five years?</string>
+	</dict>
+	<dict>
+		<key>category</key>
+		<string>Mirror Mirror</string>
+		<key>intro</key>
+		<string></string>
+		<key>min</key>
+		<integer>2</integer>
+		<key>max</key>
+		<integer>3</integer>
+		<key>source</key>
+		<string>http://www.dist8tm.org/docs/TM-%20365%20Sample%20Table%20Topics%20Questions.pdf</string>
+		<key>question</key>
+		<string>What are you sure of in your life?</string>
+	</dict>
+	<dict>
+		<key>category</key>
+		<string>Define This</string>
+		<key>intro</key>
+		<string>There is no place like home.</string>
+		<key>min</key>
+		<integer>2</integer>
+		<key>max</key>
+		<integer>3</integer>
+		<key>source</key>
+		<string>http://www.dist8tm.org/docs/TM-%20365%20Sample%20Table%20Topics%20Questions.pdf</string>
+		<key>question</key>
+		<string>When you think of &apos;home,&apos; what, specifically, do you think of?</string>
+	</dict>
+	<dict>
+		<key>category</key>
+		<string>Define This</string>
+		<key>intro</key>
+		<string></string>
+		<key>min</key>
+		<integer>2</integer>
+		<key>max</key>
+		<integer>3</integer>
+		<key>source</key>
+		<string>http://www.dist8tm.org/docs/TM-%20365%20Sample%20Table%20Topics%20Questions.pdf</string>
+		<key>question</key>
+		<string>What&apos;s the difference between settling for things and accepting the way things are?</string>
+	</dict>
+	<dict>
+		<key>category</key>
+		<string>Idol Worship</string>
+		<key>intro</key>
+		<string></string>
+		<key>min</key>
+		<integer>2</integer>
+		<key>max</key>
+		<integer>3</integer>
+		<key>source</key>
+		<string>http://www.dist8tm.org/docs/TM-%20365%20Sample%20Table%20Topics%20Questions.pdf</string>
+		<key>question</key>
+		<string>How many of your friends would you trust with your life?</string>
+	</dict>
+	<dict>
+		<key>category</key>
+		<string>Define This</string>
+		<key>intro</key>
+		<string></string>
+		<key>min</key>
+		<integer>2</integer>
+		<key>max</key>
+		<integer>3</integer>
+		<key>source</key>
+		<string>http://www.dist8tm.org/docs/TM-%20365%20Sample%20Table%20Topics%20Questions.pdf</string>
+		<key>question</key>
+		<string>What&apos;s your definition of heaven?</string>
+	</dict>
+	<dict>
+		<key>category</key>
+		<string>Mirror Mirror</string>
+		<key>intro</key>
+		<string></string>
+		<key>min</key>
+		<integer>2</integer>
+		<key>max</key>
+		<integer>3</integer>
+		<key>source</key>
+		<string>http://www.dist8tm.org/docs/TM-%20365%20Sample%20Table%20Topics%20Questions.pdf</string>
+		<key>question</key>
+		<string>What is your most prized possession?</string>
+	</dict>
+	<dict>
+		<key>category</key>
+		<string>Famous Words</string>
+		<key>intro</key>
+		<string></string>
+		<key>min</key>
+		<integer>2</integer>
+		<key>max</key>
+		<integer>3</integer>
+		<key>source</key>
+		<string>http://www.dist8tm.org/docs/TM-%20365%20Sample%20Table%20Topics%20Questions.pdf</string>
+		<key>question</key>
+		<string>How would you describe yourself in one sentence?</string>
+	</dict>
+	<dict>
+		<key>category</key>
+		<string>Daredevil</string>
+		<key>intro</key>
+		<string></string>
+		<key>min</key>
+		<integer>2</integer>
+		<key>max</key>
+		<integer>3</integer>
+		<key>source</key>
+		<string>http://www.dist8tm.org/docs/TM-%20365%20Sample%20Table%20Topics%20Questions.pdf</string>
+		<key>question</key>
+		<string>What stands between you and happiness?</string>
+	</dict>
+	<dict>
+		<key>category</key>
+		<string>Idol Worship</string>
+		<key>intro</key>
+		<string></string>
+		<key>min</key>
+		<integer>2</integer>
+		<key>max</key>
+		<integer>3</integer>
+		<key>source</key>
+		<string>http://www.dist8tm.org/docs/TM-%20365%20Sample%20Table%20Topics%20Questions.pdf</string>
+		<key>question</key>
+		<string>What makes a person beautiful?</string>
+	</dict>
+	<dict>
+		<key>category</key>
+		<string>Learning</string>
+		<key>intro</key>
+		<string></string>
+		<key>min</key>
+		<integer>2</integer>
+		<key>max</key>
+		<integer>3</integer>
+		<key>source</key>
+		<string>http://www.dist8tm.org/docs/TM-%20365%20Sample%20Table%20Topics%20Questions.pdf</string>
+		<key>question</key>
+		<string>Is there ever a time when giving up makes sense?</string>
+	</dict>
+	<dict>
+		<key>category</key>
+		<string>Idol Worship</string>
+		<key>intro</key>
+		<string></string>
+		<key>min</key>
+		<integer>2</integer>
+		<key>max</key>
+		<integer>3</integer>
+		<key>source</key>
+		<string>http://www.dist8tm.org/docs/TM-%20365%20Sample%20Table%20Topics%20Questions.pdf</string>
+		<key>question</key>
+		<string>What makes you proud?</string>
+	</dict>
+	<dict>
+		<key>category</key>
+		<string>Mirror Mirror</string>
+		<key>intro</key>
+		<string></string>
+		<key>min</key>
+		<integer>2</integer>
+		<key>max</key>
+		<integer>3</integer>
+		<key>source</key>
+		<string>http://www.dist8tm.org/docs/TM-%20365%20Sample%20Table%20Topics%20Questions.pdf</string>
+		<key>question</key>
+		<string>How do you find the strength to do what you know in your heart is right?</string>
+	</dict>
+	<dict>
+		<key>category</key>
+		<string>Define This</string>
+		<key>intro</key>
+		<string></string>
+		<key>min</key>
+		<integer>2</integer>
+		<key>max</key>
+		<integer>3</integer>
+		<key>source</key>
+		<string>http://www.dist8tm.org/docs/TM-%20365%20Sample%20Table%20Topics%20Questions.pdf</string>
+		<key>question</key>
+		<string>Where do you find peace?</string>
+	</dict>
+	<dict>
+		<key>category</key>
+		<string>Time Machine</string>
+		<key>intro</key>
+		<string></string>
+		<key>min</key>
+		<integer>2</integer>
+		<key>max</key>
+		<integer>3</integer>
+		<key>source</key>
+		<string>http://www.dist8tm.org/docs/TM-%20365%20Sample%20Table%20Topics%20Questions.pdf</string>
+		<key>question</key>
+		<string>When have you worked hard and loved every minute of it?</string>
+	</dict>
+	<dict>
+		<key>category</key>
+		<string>Parallel Universe</string>
+		<key>intro</key>
+		<string></string>
+		<key>min</key>
+		<integer>2</integer>
+		<key>max</key>
+		<integer>3</integer>
+		<key>source</key>
+		<string>http://www.dist8tm.org/docs/TM-%20365%20Sample%20Table%20Topics%20Questions.pdf</string>
+		<key>question</key>
+		<string>How short would your life have to be before you would start living differently today?</string>
+	</dict>
+	<dict>
+		<key>category</key>
+		<string>Define This</string>
+		<key>intro</key>
+		<string></string>
+		<key>min</key>
+		<integer>2</integer>
+		<key>max</key>
+		<integer>3</integer>
+		<key>source</key>
+		<string>http://www.dist8tm.org/docs/TM-%20365%20Sample%20Table%20Topics%20Questions.pdf</string>
+		<key>question</key>
+		<string>Is it better to have loved and lost or to have never loved at all?</string>
+	</dict>
+	<dict>
+		<key>category</key>
+		<string>Parallel Universe</string>
+		<key>intro</key>
+		<string></string>
+		<key>min</key>
+		<integer>2</integer>
+		<key>max</key>
+		<integer>3</integer>
+		<key>source</key>
+		<string>http://www.dist8tm.org/docs/TM-%20365%20Sample%20Table%20Topics%20Questions.pdf</string>
+		<key>question</key>
+		<string>What would you do if you made a mistake and somebody died?</string>
+	</dict>
+	<dict>
+		<key>category</key>
+		<string>Idol Worship</string>
+		<key>intro</key>
+		<string></string>
+		<key>min</key>
+		<integer>2</integer>
+		<key>max</key>
+		<integer>3</integer>
+		<key>source</key>
+		<string>http://www.dist8tm.org/docs/TM-%20365%20Sample%20Table%20Topics%20Questions.pdf</string>
+		<key>question</key>
+		<string>Who do you trust and why?</string>
+	</dict>
+	<dict>
+		<key>category</key>
+		<string>Parallel Universe</string>
+		<key>intro</key>
+		<string></string>
+		<key>min</key>
+		<integer>2</integer>
+		<key>max</key>
+		<integer>3</integer>
+		<key>source</key>
+		<string>http://www.dist8tm.org/docs/TM-%20365%20Sample%20Table%20Topics%20Questions.pdf</string>
+		<key>question</key>
+		<string>If you were forced to eliminate every physical possession from your life with the exception of what could fit into a single backpack, what would you put in it?</string>
+	</dict>
+	<dict>
+		<key>category</key>
+		<string>Define This</string>
+		<key>intro</key>
+		<string></string>
+		<key>min</key>
+		<integer>2</integer>
+		<key>max</key>
+		<integer>3</integer>
+		<key>source</key>
+		<string>http://www.dist8tm.org/docs/TM-%20365%20Sample%20Table%20Topics%20Questions.pdf</string>
+		<key>question</key>
+		<string>When does silence convey more meaning than words?</string>
+	</dict>
+	<dict>
+		<key>category</key>
+		<string>Hobbies</string>
+		<key>intro</key>
+		<string></string>
+		<key>min</key>
+		<integer>2</integer>
+		<key>max</key>
+		<integer>3</integer>
+		<key>source</key>
+		<string>http://www.dist8tm.org/docs/TM-%20365%20Sample%20Table%20Topics%20Questions.pdf</string>
+		<key>question</key>
+		<string>How do you spend the majority of your free time?</string>
+	</dict>
+	<dict>
+		<key>category</key>
+		<string>Idol Worship</string>
+		<key>intro</key>
+		<string></string>
+		<key>min</key>
+		<integer>2</integer>
+		<key>max</key>
+		<integer>3</integer>
+		<key>source</key>
+		<string>http://www.dist8tm.org/docs/TM-%20365%20Sample%20Table%20Topics%20Questions.pdf</string>
+		<key>question</key>
+		<string>Who do you think of first when you think of success?</string>
+	</dict>
+	<dict>
+		<key>category</key>
+		<string>Time Machine</string>
+		<key>intro</key>
+		<string>When kids are young they are often asked about what they want to be when they grow up.</string>
+		<key>min</key>
+		<integer>2</integer>
+		<key>max</key>
+		<integer>3</integer>
+		<key>source</key>
+		<string>http://www.dist8tm.org/docs/TM-%20365%20Sample%20Table%20Topics%20Questions.pdf</string>
+		<key>question</key>
+		<string>What did you want to be when you grew up?</string>
+	</dict>
+	<dict>
+		<key>category</key>
+		<string>Time Machine</string>
+		<key>intro</key>
+		<string></string>
+		<key>min</key>
+		<integer>2</integer>
+		<key>max</key>
+		<integer>3</integer>
+		<key>source</key>
+		<string>http://www.dist8tm.org/docs/TM-%20365%20Sample%20Table%20Topics%20Questions.pdf</string>
+		<key>question</key>
+		<string>How will today matter in five years from now?</string>
+	</dict>
+	<dict>
+		<key>category</key>
+		<string>Hobbies</string>
+		<key>intro</key>
+		<string></string>
+		<key>min</key>
+		<integer>2</integer>
+		<key>max</key>
+		<integer>3</integer>
+		<key>source</key>
+		<string>http://www.dist8tm.org/docs/TM-%20365%20Sample%20Table%20Topics%20Questions.pdf</string>
+		<key>question</key>
+		<string>How have you helped someone else recently?</string>
+	</dict>
+	<dict>
+		<key>category</key>
+		<string>Mirror Mirror</string>
+		<key>intro</key>
+		<string></string>
+		<key>min</key>
+		<integer>2</integer>
+		<key>max</key>
+		<integer>3</integer>
+		<key>source</key>
+		<string>http://www.dist8tm.org/docs/TM-%20365%20Sample%20Table%20Topics%20Questions.pdf</string>
+		<key>question</key>
+		<string>What is your greatest skill?</string>
+	</dict>
+	<dict>
+		<key>category</key>
+		<string>Define This</string>
+		<key>intro</key>
+		<string></string>
+		<key>min</key>
+		<integer>2</integer>
+		<key>max</key>
+		<integer>3</integer>
+		<key>source</key>
+		<string>http://www.dist8tm.org/docs/TM-%20365%20Sample%20Table%20Topics%20Questions.pdf</string>
+		<key>question</key>
+		<string>Do you see to believe or believe to see?</string>
+	</dict>
+	<dict>
+		<key>category</key>
+		<string>Hobbies</string>
+		<key>intro</key>
+		<string></string>
+		<key>min</key>
+		<integer>2</integer>
+		<key>max</key>
+		<integer>3</integer>
+		<key>source</key>
+		<string>http://www.dist8tm.org/docs/TM-%20365%20Sample%20Table%20Topics%20Questions.pdf</string>
+		<key>question</key>
+		<string>How are you pursuing your dreams right now?</string>
+	</dict>
+	<dict>
+		<key>category</key>
+		<string>Daredevil</string>
+		<key>intro</key>
+		<string></string>
+		<key>min</key>
+		<integer>2</integer>
+		<key>max</key>
+		<integer>3</integer>
+		<key>source</key>
+		<string>http://www.dist8tm.org/docs/TM-%20365%20Sample%20Table%20Topics%20Questions.pdf</string>
+		<key>question</key>
+		<string>What&apos;s the next big step you need to take?</string>
+	</dict>
+	<dict>
+		<key>category</key>
+		<string>Parallel Universe</string>
+		<key>intro</key>
+		<string></string>
+		<key>min</key>
+		<integer>2</integer>
+		<key>max</key>
+		<integer>3</integer>
+		<key>source</key>
+		<string>http://www.dist8tm.org/docs/TM-%20365%20Sample%20Table%20Topics%20Questions.pdf</string>
+		<key>question</key>
+		<string>If today was the last day of your life, would you want to do what you are about to do today?</string>
+	</dict>
+	<dict>
+		<key>category</key>
+		<string>Parallel Universe</string>
+		<key>intro</key>
+		<string></string>
+		<key>min</key>
+		<integer>2</integer>
+		<key>max</key>
+		<integer>3</integer>
+		<key>source</key>
+		<string>http://www.dist8tm.org/docs/TM-%20365%20Sample%20Table%20Topics%20Questions.pdf</string>
+		<key>question</key>
+		<string>If today was the last day of your life, who would you call and what would you tell them?</string>
+	</dict>
+	<dict>
+		<key>category</key>
+		<string>Idol Worship</string>
+		<key>intro</key>
+		<string></string>
+		<key>min</key>
+		<integer>2</integer>
+		<key>max</key>
+		<integer>3</integer>
+		<key>source</key>
+		<string>http://www.dist8tm.org/docs/TM-%20365%20Sample%20Table%20Topics%20Questions.pdf</string>
+		<key>question</key>
+		<string>Who do you dream about?</string>
+	</dict>
+	<dict>
+		<key>category</key>
+		<string>Mirror Mirror</string>
+		<key>intro</key>
+		<string></string>
+		<key>min</key>
+		<integer>2</integer>
+		<key>max</key>
+		<integer>3</integer>
+		<key>source</key>
+		<string>http://www.dist8tm.org/docs/TM-%20365%20Sample%20Table%20Topics%20Questions.pdf</string>
+		<key>question</key>
+		<string>What do you have trouble seeing clearly in your mind?</string>
+	</dict>
+	<dict>
+		<key>category</key>
+		<string>Time Machine</string>
+		<key>intro</key>
+		<string></string>
+		<key>min</key>
+		<integer>2</integer>
+		<key>max</key>
+		<integer>3</integer>
+		<key>source</key>
+		<string>http://www.dist8tm.org/docs/TM-%20365%20Sample%20Table%20Topics%20Questions.pdf</string>
+		<key>question</key>
+		<string>What are you looking forward to?</string>
+	</dict>
+	<dict>
+		<key>category</key>
+		<string>Famous Words</string>
+		<key>intro</key>
+		<string></string>
+		<key>min</key>
+		<integer>2</integer>
+		<key>max</key>
+		<integer>3</integer>
+		<key>source</key>
+		<string>http://www.dist8tm.org/docs/TM-%20365%20Sample%20Table%20Topics%20Questions.pdf</string>
+		<key>question</key>
+		<string>What is the number one thing you want to accomplish before you die?</string>
+	</dict>
+	<dict>
+		<key>category</key>
+		<string>Define This</string>
+		<key>intro</key>
+		<string></string>
+		<key>min</key>
+		<integer>2</integer>
+		<key>max</key>
+		<integer>3</integer>
+		<key>source</key>
+		<string>http://www.dist8tm.org/docs/TM-%20365%20Sample%20Table%20Topics%20Questions.pdf</string>
+		<key>question</key>
+		<string>When is love a weakness?</string>
+	</dict>
+	<dict>
+		<key>category</key>
+		<string>Time Machine</string>
+		<key>intro</key>
+		<string></string>
+		<key>min</key>
+		<integer>2</integer>
+		<key>max</key>
+		<integer>3</integer>
+		<key>source</key>
+		<string>http://www.dist8tm.org/docs/TM-%20365%20Sample%20Table%20Topics%20Questions.pdf</string>
+		<key>question</key>
+		<string>What has been the most terrifying moment of your life thus far?</string>
+	</dict>
+	<dict>
+		<key>category</key>
+		<string>Idol Worship</string>
+		<key>intro</key>
+		<string></string>
+		<key>min</key>
+		<integer>2</integer>
+		<key>max</key>
+		<integer>3</integer>
+		<key>source</key>
+		<string>http://www.dist8tm.org/docs/TM-%20365%20Sample%20Table%20Topics%20Questions.pdf</string>
+		<key>question</key>
+		<string>Who is the strongest person you know?</string>
+	</dict>
+	<dict>
+		<key>category</key>
+		<string>Mirror Mirror</string>
+		<key>intro</key>
+		<string></string>
+		<key>min</key>
+		<integer>2</integer>
+		<key>max</key>
+		<integer>3</integer>
+		<key>source</key>
+		<string>http://www.dist8tm.org/docs/TM-%20365%20Sample%20Table%20Topics%20Questions.pdf</string>
+		<key>question</key>
+		<string>If you could take a single photograph of your life, what would it look like?</string>
+	</dict>
+	<dict>
+		<key>category</key>
+		<string>Daredevil</string>
+		<key>intro</key>
+		<string></string>
+		<key>min</key>
+		<integer>2</integer>
+		<key>max</key>
+		<integer>3</integer>
+		<key>source</key>
+		<string>http://www.dist8tm.org/docs/TM-%20365%20Sample%20Table%20Topics%20Questions.pdf</string>
+		<key>question</key>
+		<string>Is the reward worth the risk?</string>
+	</dict>
+	<dict>
+		<key>category</key>
+		<string>Mirror Mirror</string>
+		<key>intro</key>
+		<string></string>
+		<key>min</key>
+		<integer>2</integer>
+		<key>max</key>
+		<integer>3</integer>
+		<key>source</key>
+		<string>http://www.dist8tm.org/docs/TM-%20365%20Sample%20Table%20Topics%20Questions.pdf</string>
+		<key>question</key>
+		<string>For you personally, what makes today worth living?</string>
+	</dict>
+	<dict>
+		<key>category</key>
+		<string>Time Machine</string>
+		<key>intro</key>
+		<string></string>
+		<key>min</key>
+		<integer>2</integer>
+		<key>max</key>
+		<integer>3</integer>
+		<key>source</key>
+		<string>http://www.dist8tm.org/docs/TM-%20365%20Sample%20Table%20Topics%20Questions.pdf</string>
+		<key>question</key>
+		<string>What have you done in the last year that makes you proud?</string>
+	</dict>
+	<dict>
+		<key>category</key>
+		<string>Learning</string>
+		<key>intro</key>
+		<string></string>
+		<key>min</key>
+		<integer>2</integer>
+		<key>max</key>
+		<integer>3</integer>
+		<key>source</key>
+		<string>http://www.dist8tm.org/docs/TM-%20365%20Sample%20Table%20Topics%20Questions.pdf</string>
+		<key>question</key>
+		<string>What did you learn recently that changed the way you live?</string>
+	</dict>
+	<dict>
+		<key>category</key>
+		<string>Time Machine</string>
+		<key>intro</key>
+		<string></string>
+		<key>min</key>
+		<integer>2</integer>
+		<key>max</key>
+		<integer>3</integer>
+		<key>source</key>
+		<string>http://www.dist8tm.org/docs/TM-%20365%20Sample%20Table%20Topics%20Questions.pdf</string>
+		<key>question</key>
+		<string>What is your fondest memory from the past three years?</string>
+	</dict>
+	<dict>
+		<key>category</key>
+		<string>Define This</string>
+		<key>intro</key>
+		<string></string>
+		<key>min</key>
+		<integer>2</integer>
+		<key>max</key>
+		<integer>3</integer>
+		<key>source</key>
+		<string>http://www.dist8tm.org/docs/TM-%20365%20Sample%20Table%20Topics%20Questions.pdf</string>
+		<key>question</key>
+		<string>What are the primary components of a happy life?</string>
+	</dict>
+	<dict>
+		<key>category</key>
+		<string>Parallel Universe</string>
+		<key>intro</key>
+		<string></string>
+		<key>min</key>
+		<integer>2</integer>
+		<key>max</key>
+		<integer>3</integer>
+		<key>source</key>
+		<string>http://www.dist8tm.org/docs/TM-%20365%20Sample%20Table%20Topics%20Questions.pdf</string>
+		<key>question</key>
+		<string>How would the world be different if you were never born?</string>
+	</dict>
+	<dict>
+		<key>category</key>
+		<string>Mirror Mirror</string>
+		<key>intro</key>
+		<string></string>
+		<key>min</key>
+		<integer>2</integer>
+		<key>max</key>
+		<integer>3</integer>
+		<key>source</key>
+		<string>http://www.dist8tm.org/docs/TM-%20365%20Sample%20Table%20Topics%20Questions.pdf</string>
+		<key>question</key>
+		<string>What is your favorite song and why?</string>
+	</dict>
+	<dict>
+		<key>category</key>
+		<string>Daredevil</string>
+		<key>intro</key>
+		<string></string>
+		<key>min</key>
+		<integer>2</integer>
+		<key>max</key>
+		<integer>3</integer>
+		<key>source</key>
+		<string>http://www.dist8tm.org/docs/TM-%20365%20Sample%20Table%20Topics%20Questions.pdf</string>
+		<key>question</key>
+		<string>With the resources you have right now, what can you do to bring yourself closer to your goal?</string>
+	</dict>
+	<dict>
+		<key>category</key>
+		<string>Mirror Mirror</string>
+		<key>intro</key>
+		<string></string>
+		<key>min</key>
+		<integer>2</integer>
+		<key>max</key>
+		<integer>3</integer>
+		<key>source</key>
+		<string>http://www.dist8tm.org/docs/TM-%20365%20Sample%20Table%20Topics%20Questions.pdf</string>
+		<key>question</key>
+		<string>What are your top three priorities?</string>
+	</dict>
+	<dict>
+		<key>category</key>
+		<string>Idol Worship</string>
+		<key>intro</key>
+		<string></string>
+		<key>min</key>
+		<integer>2</integer>
+		<key>max</key>
+		<integer>3</integer>
+		<key>source</key>
+		<string>http://www.dist8tm.org/docs/TM-%20365%20Sample%20Table%20Topics%20Questions.pdf</string>
+		<key>question</key>
+		<string>Why do we idolize sports players?</string>
+	</dict>
+	<dict>
+		<key>category</key>
+		<string>Idol Worship</string>
+		<key>intro</key>
+		<string></string>
+		<key>min</key>
+		<integer>2</integer>
+		<key>max</key>
+		<integer>3</integer>
+		<key>source</key>
+		<string>http://www.dist8tm.org/docs/TM-%20365%20Sample%20Table%20Topics%20Questions.pdf</string>
+		<key>question</key>
+		<string>What is the nicest thing someone has ever done for you?</string>
+	</dict>
+	<dict>
+		<key>category</key>
+		<string>Time Machine</string>
+		<key>intro</key>
+		<string></string>
+		<key>min</key>
+		<integer>2</integer>
+		<key>max</key>
+		<integer>3</integer>
+		<key>source</key>
+		<string>http://www.dist8tm.org/docs/TM-%20365%20Sample%20Table%20Topics%20Questions.pdf</string>
+		<key>question</key>
+		<string>What do you see when you look into the future?</string>
+	</dict>
+	<dict>
+		<key>category</key>
+		<string>Mirror Mirror</string>
+		<key>intro</key>
+		<string></string>
+		<key>min</key>
+		<integer>2</integer>
+		<key>max</key>
+		<integer>3</integer>
+		<key>source</key>
+		<string>http://www.dist8tm.org/docs/TM-%20365%20Sample%20Table%20Topics%20Questions.pdf</string>
+		<key>question</key>
+		<string>What makes you angry? Why?</string>
+	</dict>
+	<dict>
+		<key>category</key>
+		<string>Learning</string>
+		<key>intro</key>
+		<string></string>
+		<key>min</key>
+		<integer>2</integer>
+		<key>max</key>
+		<integer>3</integer>
+		<key>source</key>
+		<string>http://www.dist8tm.org/docs/TM-%20365%20Sample%20Table%20Topics%20Questions.pdf</string>
+		<key>question</key>
+		<string>What is the most valuable life lesson you learned from your parents?</string>
+	</dict>
+	<dict>
+		<key>category</key>
+		<string>Define This</string>
+		<key>intro</key>
+		<string></string>
+		<key>min</key>
+		<integer>2</integer>
+		<key>max</key>
+		<integer>3</integer>
+		<key>source</key>
+		<string>http://www.dist8tm.org/docs/TM-%20365%20Sample%20Table%20Topics%20Questions.pdf</string>
+		<key>question</key>
+		<string>What does love feel like?</string>
+	</dict>
+	<dict>
+		<key>category</key>
+		<string>Hobbies</string>
+		<key>intro</key>
+		<string></string>
+		<key>min</key>
+		<integer>2</integer>
+		<key>max</key>
+		<integer>3</integer>
+		<key>source</key>
+		<string>http://www.dist8tm.org/docs/TM-%20365%20Sample%20Table%20Topics%20Questions.pdf</string>
+		<key>question</key>
+		<string>What are your favorite simple pleasures?</string>
+	</dict>
+	<dict>
+		<key>category</key>
+		<string>Time Machine</string>
+		<key>intro</key>
+		<string></string>
+		<key>min</key>
+		<integer>2</integer>
+		<key>max</key>
+		<integer>3</integer>
+		<key>source</key>
+		<string>http://www.dist8tm.org/docs/TM-%20365%20Sample%20Table%20Topics%20Questions.pdf</string>
+		<key>question</key>
+		<string>If you could go back in time and tell a younger version of yourself one thing, what would you tell?</string>
+	</dict>
+	<dict>
+		<key>category</key>
+		<string>Hobbies</string>
+		<key>intro</key>
+		<string></string>
+		<key>min</key>
+		<integer>2</integer>
+		<key>max</key>
+		<integer>3</integer>
+		<key>source</key>
+		<string>http://www.dist8tm.org/docs/TM-%20365%20Sample%20Table%20Topics%20Questions.pdf</string>
+		<key>question</key>
+		<string>What do you do to deliberately impress others?</string>
+	</dict>
+	<dict>
+		<key>category</key>
+		<string>Mirror Mirror</string>
+		<key>intro</key>
+		<string></string>
+		<key>min</key>
+		<integer>2</integer>
+		<key>max</key>
+		<integer>3</integer>
+		<key>source</key>
+		<string>http://www.dist8tm.org/docs/TM-%20365%20Sample%20Table%20Topics%20Questions.pdf</string>
+		<key>question</key>
+		<string>What will you never do?</string>
+	</dict>
+	<dict>
+		<key>category</key>
+		<string>Idol Worship</string>
+		<key>intro</key>
+		<string></string>
+		<key>min</key>
+		<integer>2</integer>
+		<key>max</key>
+		<integer>3</integer>
+		<key>source</key>
+		<string>http://www.dist8tm.org/docs/TM-%20365%20Sample%20Table%20Topics%20Questions.pdf</string>
+		<key>question</key>
+		<string>Excluding romantic relationships, who do you love?</string>
+	</dict>
+	<dict>
+		<key>category</key>
+		<string>Time Machine</string>
+		<key>intro</key>
+		<string></string>
+		<key>min</key>
+		<integer>2</integer>
+		<key>max</key>
+		<integer>3</integer>
+		<key>source</key>
+		<string>http://www.dist8tm.org/docs/TM-%20365%20Sample%20Table%20Topics%20Questions.pdf</string>
+		<key>question</key>
+		<string>What is your earliest childhood memory?</string>
+	</dict>
+	<dict>
+		<key>category</key>
+		<string>Learning</string>
+		<key>intro</key>
+		<string></string>
+		<key>min</key>
+		<integer>2</integer>
+		<key>max</key>
+		<integer>3</integer>
+		<key>source</key>
+		<string>http://www.dist8tm.org/docs/TM-%20365%20Sample%20Table%20Topics%20Questions.pdf</string>
+		<key>question</key>
+		<string>What book has had the greatest influence on your life?</string>
+	</dict>
+	<dict>
+		<key>category</key>
+		<string>Learning</string>
+		<key>intro</key>
+		<string></string>
+		<key>min</key>
+		<integer>2</integer>
+		<key>max</key>
+		<integer>3</integer>
+		<key>source</key>
+		<string>http://www.dist8tm.org/docs/TM-%20365%20Sample%20Table%20Topics%20Questions.pdf</string>
+		<key>question</key>
+		<string>What three questions do you wish you knew the answers to?</string>
+	</dict>
+	<dict>
+		<key>category</key>
+		<string>Time Machine</string>
+		<key>intro</key>
+		<string></string>
+		<key>min</key>
+		<integer>2</integer>
+		<key>max</key>
+		<integer>3</integer>
+		<key>source</key>
+		<string>http://www.dist8tm.org/docs/TM-%20365%20Sample%20Table%20Topics%20Questions.pdf</string>
+		<key>question</key>
+		<string>What is the greatest peer pressure you&apos;ve ever felt?</string>
+	</dict>
+	<dict>
+		<key>category</key>
+		<string>Famous Words</string>
+		<key>intro</key>
+		<string></string>
+		<key>min</key>
+		<integer>2</integer>
+		<key>max</key>
+		<integer>3</integer>
+		<key>source</key>
+		<string>http://www.dist8tm.org/docs/TM-%20365%20Sample%20Table%20Topics%20Questions.pdf</string>
+		<key>question</key>
+		<string>What&apos;s the biggest lie you once believed was true?</string>
+	</dict>
+	<dict>
+		<key>category</key>
+		<string>Time Machine</string>
+		<key>intro</key>
+		<string></string>
+		<key>min</key>
+		<integer>2</integer>
+		<key>max</key>
+		<integer>3</integer>
+		<key>source</key>
+		<string>http://www.dist8tm.org/docs/TM-%20365%20Sample%20Table%20Topics%20Questions.pdf</string>
+		<key>question</key>
+		<string>In your lifetime, what have you done that hurt someone else?</string>
+	</dict>
+	<dict>
+		<key>category</key>
+		<string>Famous Words</string>
+		<key>intro</key>
+		<string></string>
+		<key>min</key>
+		<integer>2</integer>
+		<key>max</key>
+		<integer>3</integer>
+		<key>source</key>
+		<string>http://www.dist8tm.org/docs/TM-%20365%20Sample%20Table%20Topics%20Questions.pdf</string>
+		<key>question</key>
+		<string>What&apos;s the best part of growing older?</string>
+	</dict>
+	<dict>
+		<key>category</key>
+		<string>Hobbies</string>
+		<key>intro</key>
+		<string></string>
+		<key>min</key>
+		<integer>2</integer>
+		<key>max</key>
+		<integer>3</integer>
+		<key>source</key>
+		<string>http://www.dist8tm.org/docs/TM-%20365%20Sample%20Table%20Topics%20Questions.pdf</string>
+		<key>question</key>
+		<string>What&apos;s been on your mind most lately?</string>
+	</dict>
+	<dict>
+		<key>category</key>
+		<string>Hobbies</string>
+		<key>intro</key>
+		<string></string>
+		<key>min</key>
+		<integer>2</integer>
+		<key>max</key>
+		<integer>3</integer>
+		<key>source</key>
+		<string>http://www.dist8tm.org/docs/TM-%20365%20Sample%20Table%20Topics%20Questions.pdf</string>
+		<key>question</key>
+		<string>What do you think is worth waiting for?</string>
+	</dict>
+	<dict>
+		<key>category</key>
+		<string>Daredevil</string>
+		<key>intro</key>
+		<string></string>
+		<key>min</key>
+		<integer>2</integer>
+		<key>max</key>
+		<integer>3</integer>
+		<key>source</key>
+		<string>http://www.dist8tm.org/docs/TM-%20365%20Sample%20Table%20Topics%20Questions.pdf</string>
+		<key>question</key>
+		<string>What chances do you wish you had taken?</string>
+	</dict>
+	<dict>
+		<key>category</key>
+		<string>Parallel Universe</string>
+		<key>intro</key>
+		<string></string>
+		<key>min</key>
+		<integer>2</integer>
+		<key>max</key>
+		<integer>3</integer>
+		<key>source</key>
+		<string>http://www.dist8tm.org/docs/TM-%20365%20Sample%20Table%20Topics%20Questions.pdf</string>
+		<key>question</key>
+		<string>Where else would you like to live? Why?</string>
+	</dict>
+	<dict>
+		<key>category</key>
+		<string>Mirror Mirror</string>
+		<key>intro</key>
+		<string></string>
+		<key>min</key>
+		<integer>2</integer>
+		<key>max</key>
+		<integer>3</integer>
+		<key>source</key>
+		<string>http://www.dist8tm.org/docs/TM-%20365%20Sample%20Table%20Topics%20Questions.pdf</string>
+		<key>question</key>
+		<string>What motivates you to go to work each day?</string>
+	</dict>
+	<dict>
+		<key>category</key>
+		<string>Time Machine</string>
+		<key>intro</key>
+		<string></string>
+		<key>min</key>
+		<integer>2</integer>
+		<key>max</key>
+		<integer>3</integer>
+		<key>source</key>
+		<string>http://www.dist8tm.org/docs/TM-%20365%20Sample%20Table%20Topics%20Questions.pdf</string>
+		<key>question</key>
+		<string>What do you wish you had done differently?</string>
+	</dict>
+	<dict>
+		<key>category</key>
+		<string>Mirror Mirror</string>
+		<key>intro</key>
+		<string></string>
+		<key>min</key>
+		<integer>2</integer>
+		<key>max</key>
+		<integer>3</integer>
+		<key>source</key>
+		<string>http://www.dist8tm.org/docs/TM-%20365%20Sample%20Table%20Topics%20Questions.pdf</string>
+		<key>question</key>
+		<string>What is your greatest strength and your greatest weakness?</string>
+	</dict>
+	<dict>
+		<key>category</key>
+		<string>Time Machine</string>
+		<key>intro</key>
+		<string></string>
+		<key>min</key>
+		<integer>2</integer>
+		<key>max</key>
+		<integer>3</integer>
+		<key>source</key>
+		<string>http://www.dist8tm.org/docs/TM-%20365%20Sample%20Table%20Topics%20Questions.pdf</string>
+		<key>question</key>
+		<string>When was the last time you lied? What did you lie about?</string>
+	</dict>
+	<dict>
+		<key>category</key>
+		<string>Time Machine</string>
+		<key>intro</key>
+		<string></string>
+		<key>min</key>
+		<integer>2</integer>
+		<key>max</key>
+		<integer>3</integer>
+		<key>source</key>
+		<string>http://www.dist8tm.org/docs/TM-%20365%20Sample%20Table%20Topics%20Questions.pdf</string>
+		<key>question</key>
+		<string>What made you smile this week?</string>
+	</dict>
+	<dict>
+		<key>category</key>
+		<string>Define This</string>
+		<key>intro</key>
+		<string></string>
+		<key>min</key>
+		<integer>2</integer>
+		<key>max</key>
+		<integer>3</integer>
+		<key>source</key>
+		<string>http://www.dist8tm.org/docs/TM-%20365%20Sample%20Table%20Topics%20Questions.pdf</string>
+		<key>question</key>
+		<string>What do you do with the majority of your money?</string>
+	</dict>
+	<dict>
+		<key>category</key>
+		<string>Mirror Mirror</string>
+		<key>intro</key>
+		<string></string>
+		<key>min</key>
+		<integer>2</integer>
+		<key>max</key>
+		<integer>3</integer>
+		<key>source</key>
+		<string>http://www.dist8tm.org/docs/TM-%20365%20Sample%20Table%20Topics%20Questions.pdf</string>
+		<key>question</key>
+		<string>What motivates you to be your best?</string>
+	</dict>
+	<dict>
+		<key>category</key>
+		<string>Time Machine</string>
+		<key>intro</key>
+		<string></string>
+		<key>min</key>
+		<integer>2</integer>
+		<key>max</key>
+		<integer>3</integer>
+		<key>source</key>
+		<string>http://www.dist8tm.org/docs/TM-%20365%20Sample%20Table%20Topics%20Questions.pdf</string>
+		<key>question</key>
+		<string>When was the last time you lost your temper? About what?</string>
+	</dict>
+	<dict>
+		<key>category</key>
+		<string>Mirror Mirror</string>
+		<key>intro</key>
+		<string></string>
+		<key>min</key>
+		<integer>2</integer>
+		<key>max</key>
+		<integer>3</integer>
+		<key>source</key>
+		<string>http://www.dist8tm.org/docs/TM-%20365%20Sample%20Table%20Topics%20Questions.pdf</string>
+		<key>question</key>
+		<string>What will you never give up on?</string>
+	</dict>
+	<dict>
+		<key>category</key>
+		<string>Time Machine</string>
+		<key>intro</key>
+		<string></string>
+		<key>min</key>
+		<integer>2</integer>
+		<key>max</key>
+		<integer>3</integer>
+		<key>source</key>
+		<string>http://www.dist8tm.org/docs/TM-%20365%20Sample%20Table%20Topics%20Questions.pdf</string>
+		<key>question</key>
+		<string>When you look into the past, what do you miss the most?</string>
+	</dict>
+	<dict>
+		<key>category</key>
+		<string>Time Machine</string>
+		<key>intro</key>
+		<string></string>
+		<key>min</key>
+		<integer>2</integer>
+		<key>max</key>
+		<integer>3</integer>
+		<key>source</key>
+		<string>http://www.dist8tm.org/docs/TM-%20365%20Sample%20Table%20Topics%20Questions.pdf</string>
+		<key>question</key>
+		<string>How would you describe the past year of your life in one sentence?</string>
+	</dict>
+	<dict>
+		<key>category</key>
+		<string>Time Machine</string>
+		<key>intro</key>
+		<string></string>
+		<key>min</key>
+		<integer>2</integer>
+		<key>max</key>
+		<integer>3</integer>
+		<key>source</key>
+		<string>http://www.dist8tm.org/docs/TM-%20365%20Sample%20Table%20Topics%20Questions.pdf</string>
+		<key>question</key>
+		<string>What is the most spontaneous thing you&apos;ve ever done?</string>
+	</dict>
+	<dict>
+		<key>category</key>
+		<string>Mirror Mirror</string>
+		<key>intro</key>
+		<string></string>
+		<key>min</key>
+		<integer>2</integer>
+		<key>max</key>
+		<integer>3</integer>
+		<key>source</key>
+		<string>http://www.dist8tm.org/docs/TM-%20365%20Sample%20Table%20Topics%20Questions.pdf</string>
+		<key>question</key>
+		<string>What makes you uncomfortable?</string>
+	</dict>
+	<dict>
+		<key>category</key>
+		<string>Parallel Universe</string>
+		<key>intro</key>
+		<string></string>
+		<key>min</key>
+		<integer>2</integer>
+		<key>max</key>
+		<integer>3</integer>
+		<key>source</key>
+		<string>http://www.dist8tm.org/docs/TM-%20365%20Sample%20Table%20Topics%20Questions.pdf</string>
+		<key>question</key>
+		<string>If you had to move 3000 miles away, what one thing would you miss the most?</string>
+	</dict>
+	<dict>
+		<key>category</key>
+		<string>Time Machine</string>
+		<key>intro</key>
+		<string></string>
+		<key>min</key>
+		<integer>2</integer>
+		<key>max</key>
+		<integer>3</integer>
+		<key>source</key>
+		<string>http://www.dist8tm.org/docs/TM-%20365%20Sample%20Table%20Topics%20Questions.pdf</string>
+		<key>question</key>
+		<string>What worries you about the future?</string>
+	</dict>
+	<dict>
+		<key>category</key>
+		<string>Daredevil</string>
+		<key>intro</key>
+		<string></string>
+		<key>min</key>
+		<integer>2</integer>
+		<key>max</key>
+		<integer>3</integer>
+		<key>source</key>
+		<string>http://www.dist8tm.org/docs/TM-%20365%20Sample%20Table%20Topics%20Questions.pdf</string>
+		<key>question</key>
+		<string>What one &apos;need&apos; and one &apos;want&apos; will you strive to achieve in the next twelve months?</string>
+	</dict>
+	<dict>
+		<key>category</key>
+		<string>Learning</string>
+		<key>intro</key>
+		<string></string>
+		<key>min</key>
+		<integer>2</integer>
+		<key>max</key>
+		<integer>3</integer>
+		<key>source</key>
+		<string>http://www.dist8tm.org/docs/TM-%20365%20Sample%20Table%20Topics%20Questions.pdf</string>
+		<key>question</key>
+		<string>What life lessons did you have to experience firsthand before you fully understood them?</string>
+	</dict>
+	<dict>
+		<key>category</key>
+		<string>Define This</string>
+		<key>intro</key>
+		<string></string>
+		<key>min</key>
+		<integer>2</integer>
+		<key>max</key>
+		<integer>3</integer>
+		<key>source</key>
+		<string>http://www.dist8tm.org/docs/TM-%20365%20Sample%20Table%20Topics%20Questions.pdf</string>
+		<key>question</key>
+		<string>Do you like the city or town you live in? Why or why not?</string>
+	</dict>
+	<dict>
+		<key>category</key>
+		<string>Mirror Mirror</string>
+		<key>intro</key>
+		<string></string>
+		<key>min</key>
+		<integer>2</integer>
+		<key>max</key>
+		<integer>3</integer>
+		<key>source</key>
+		<string>http://www.dist8tm.org/docs/TM-%20365%20Sample%20Table%20Topics%20Questions.pdf</string>
+		<key>question</key>
+		<string>What&apos;s the best part of being you?</string>
+	</dict>
+	<dict>
+		<key>category</key>
+		<string>Time Machine</string>
+		<key>intro</key>
+		<string></string>
+		<key>min</key>
+		<integer>2</integer>
+		<key>max</key>
+		<integer>3</integer>
+		<key>source</key>
+		<string>http://www.dist8tm.org/docs/TM-%20365%20Sample%20Table%20Topics%20Questions.pdf</string>
+		<key>question</key>
+		<string>When you look back over the past month, what single moment stands out?</string>
+	</dict>
+	<dict>
+		<key>category</key>
+		<string>Hobbies</string>
+		<key>intro</key>
+		<string></string>
+		<key>min</key>
+		<integer>2</integer>
+		<key>max</key>
+		<integer>3</integer>
+		<key>source</key>
+		<string>http://www.dist8tm.org/docs/TM-%20365%20Sample%20Table%20Topics%20Questions.pdf</string>
+		<key>question</key>
+		<string>What do you do to relieve stress?</string>
+	</dict>
+	<dict>
+		<key>category</key>
+		<string>Time Machine</string>
+		<key>intro</key>
+		<string></string>
+		<key>min</key>
+		<integer>2</integer>
+		<key>max</key>
+		<integer>3</integer>
+		<key>source</key>
+		<string>http://www.dist8tm.org/docs/TM-%20365%20Sample%20Table%20Topics%20Questions.pdf</string>
+		<key>question</key>
+		<string>What is your happiest memory?</string>
+	</dict>
+	<dict>
+		<key>category</key>
+		<string>Time Machine</string>
+		<key>intro</key>
+		<string></string>
+		<key>min</key>
+		<integer>2</integer>
+		<key>max</key>
+		<integer>3</integer>
+		<key>source</key>
+		<string>http://www.dist8tm.org/docs/TM-%20365%20Sample%20Table%20Topics%20Questions.pdf</string>
+		<key>question</key>
+		<string>What is your saddest memory?</string>
+	</dict>
+	<dict>
+		<key>category</key>
+		<string>Daredevil</string>
+		<key>intro</key>
+		<string></string>
+		<key>min</key>
+		<integer>2</integer>
+		<key>max</key>
+		<integer>3</integer>
+		<key>source</key>
+		<string>http://www.dist8tm.org/docs/TM-%20365%20Sample%20Table%20Topics%20Questions.pdf</string>
+		<key>question</key>
+		<string>What would you like to change?</string>
+	</dict>
+	<dict>
+		<key>category</key>
+		<string>Idol Worship</string>
+		<key>intro</key>
+		<string></string>
+		<key>min</key>
+		<integer>2</integer>
+		<key>max</key>
+		<integer>3</integer>
+		<key>source</key>
+		<string>http://www.dist8tm.org/docs/TM-%20365%20Sample%20Table%20Topics%20Questions.pdf</string>
+		<key>question</key>
+		<string>How many people do you love?</string>
+	</dict>
+	<dict>
+		<key>category</key>
+		<string>Time Machine</string>
+		<key>intro</key>
+		<string></string>
+		<key>min</key>
+		<integer>2</integer>
+		<key>max</key>
+		<integer>3</integer>
+		<key>source</key>
+		<string>http://www.dist8tm.org/docs/TM-%20365%20Sample%20Table%20Topics%20Questions.pdf</string>
+		<key>question</key>
+		<string>What&apos;s the best decision you&apos;ve ever made?</string>
+	</dict>
+	<dict>
+		<key>category</key>
+		<string>Time Machine</string>
+		<key>intro</key>
+		<string></string>
+		<key>min</key>
+		<integer>2</integer>
+		<key>max</key>
+		<integer>3</integer>
+		<key>source</key>
+		<string>http://www.dist8tm.org/docs/TM-%20365%20Sample%20Table%20Topics%20Questions.pdf</string>
+		<key>question</key>
+		<string>What&apos;s your favorite true story that you enjoy sharing with others?</string>
+	</dict>
+	<dict>
+		<key>category</key>
+		<string>Mirror Mirror</string>
+		<key>intro</key>
+		<string></string>
+		<key>min</key>
+		<integer>2</integer>
+		<key>max</key>
+		<integer>3</integer>
+		<key>source</key>
+		<string>http://www.dist8tm.org/docs/TM-%20365%20Sample%20Table%20Topics%20Questions.pdf</string>
+		<key>question</key>
+		<string>Right now, at this moment, what do you want most?</string>
+	</dict>
+	<dict>
+		<key>category</key>
+		<string>Hobbies</string>
+		<key>intro</key>
+		<string></string>
+		<key>min</key>
+		<integer>2</integer>
+		<key>max</key>
+		<integer>3</integer>
+		<key>source</key>
+		<string>http://www.dist8tm.org/docs/TM-%20365%20Sample%20Table%20Topics%20Questions.pdf</string>
+		<key>question</key>
+		<string>What are you waiting for? How are you writing your life&apos;s story?</string>
+	</dict>
+	<dict>
+		<key>category</key>
+		<string>Famous Words</string>
+		<key>intro</key>
+		<string></string>
+		<key>min</key>
+		<integer>2</integer>
+		<key>max</key>
+		<integer>3</integer>
+		<key>source</key>
+		<string>http://www.dist8tm.org/docs/TM-%20365%20Sample%20Table%20Topics%20Questions.pdf</string>
+		<key>question</key>
+		<string>What makes love last?</string>
+	</dict>
+	<dict>
+		<key>category</key>
+		<string>Define This</string>
+		<key>intro</key>
+		<string></string>
+		<key>min</key>
+		<integer>2</integer>
+		<key>max</key>
+		<integer>3</integer>
+		<key>source</key>
+		<string>http://www.dist8tm.org/docs/TM-%20365%20Sample%20Table%20Topics%20Questions.pdf</string>
+		<key>question</key>
+		<string>What good comes from suffering?</string>
+	</dict>
+	<dict>
+		<key>category</key>
+		<string>Learning</string>
+		<key>intro</key>
+		<string></string>
+		<key>min</key>
+		<integer>2</integer>
+		<key>max</key>
+		<integer>3</integer>
+		<key>source</key>
+		<string>http://www.dist8tm.org/docs/TM-%20365%20Sample%20Table%20Topics%20Questions.pdf</string>
+		<key>question</key>
+		<string>What&apos;s the most important lesson you&apos;ve learned in the last year?</string>
+	</dict>
+	<dict>
+		<key>category</key>
+		<string>Parallel Universe</string>
+		<key>intro</key>
+		<string></string>
+		<key>min</key>
+		<integer>2</integer>
+		<key>max</key>
+		<integer>3</integer>
+		<key>source</key>
+		<string>http://www.dist8tm.org/docs/TM-%20365%20Sample%20Table%20Topics%20Questions.pdf</string>
+		<key>question</key>
+		<string>Based on you current daily actions and routines, where would you expect to be in five years?</string>
+	</dict>
+	<dict>
+		<key>category</key>
+		<string>Time Machine</string>
+		<key>intro</key>
+		<string></string>
+		<key>min</key>
+		<integer>2</integer>
+		<key>max</key>
+		<integer>3</integer>
+		<key>source</key>
+		<string>http://www.dist8tm.org/docs/TM-%20365%20Sample%20Table%20Topics%20Questions.pdf</string>
+		<key>question</key>
+		<string>What was your last major accomplishment?</string>
+	</dict>
+	<dict>
+		<key>category</key>
+		<string>idol Worship</string>
+		<key>intro</key>
+		<string></string>
+		<key>min</key>
+		<integer>2</integer>
+		<key>max</key>
+		<integer>3</integer>
+		<key>source</key>
+		<string>http://www.dist8tm.org/docs/TM-%20365%20Sample%20Table%20Topics%20Questions.pdf</string>
+		<key>question</key>
+		<string>Through all of life&apos;s twists and turns who has been there for you?</string>
+	</dict>
+	<dict>
+		<key>category</key>
+		<string>Idol Worship</string>
+		<key>intro</key>
+		<string></string>
+		<key>min</key>
+		<integer>2</integer>
+		<key>max</key>
+		<integer>3</integer>
+		<key>source</key>
+		<string>http://www.dist8tm.org/docs/TM-%20365%20Sample%20Table%20Topics%20Questions.pdf</string>
+		<key>question</key>
+		<string>What or who has been distracting you?</string>
+	</dict>
+	<dict>
+		<key>category</key>
+		<string>Time Machine</string>
+		<key>intro</key>
+		<string></string>
+		<key>min</key>
+		<integer>2</integer>
+		<key>max</key>
+		<integer>3</integer>
+		<key>source</key>
+		<string>http://www.dist8tm.org/docs/TM-%20365%20Sample%20Table%20Topics%20Questions.pdf</string>
+		<key>question</key>
+		<string>What are you looking forward to in the upcoming week?</string>
+	</dict>
+	<dict>
+		<key>category</key>
+		<string>Learning</string>
+		<key>intro</key>
+		<string></string>
+		<key>min</key>
+		<integer>2</integer>
+		<key>max</key>
+		<integer>3</integer>
+		<key>source</key>
+		<string>http://www.dist8tm.org/docs/TM-%20365%20Sample%20Table%20Topics%20Questions.pdf</string>
+		<key>question</key>
+		<string>Who is your mentor and what have you learned from them?</string>
+	</dict>
+	<dict>
+		<key>category</key>
+		<string>Mirror Mirror</string>
+		<key>intro</key>
+		<string></string>
+		<key>min</key>
+		<integer>2</integer>
+		<key>max</key>
+		<integer>3</integer>
+		<key>source</key>
+		<string>http://www.dist8tm.org/docs/TM-%20365%20Sample%20Table%20Topics%20Questions.pdf</string>
+		<key>question</key>
+		<string>What are you uncertain about?</string>
+	</dict>
+	<dict>
+		<key>category</key>
+		<string>Mirror Mirror</string>
+		<key>intro</key>
+		<string></string>
+		<key>min</key>
+		<integer>2</integer>
+		<key>max</key>
+		<integer>3</integer>
+		<key>source</key>
+		<string>http://www.dist8tm.org/docs/TM-%20365%20Sample%20Table%20Topics%20Questions.pdf</string>
+		<key>question</key>
+		<string>What do you think about when you lie awake in bed?</string>
+	</dict>
+	<dict>
+		<key>category</key>
+		<string>Mirror Mirror</string>
+		<key>intro</key>
+		<string></string>
+		<key>min</key>
+		<integer>2</integer>
+		<key>max</key>
+		<integer>3</integer>
+		<key>source</key>
+		<string>http://www.dist8tm.org/docs/TM-%20365%20Sample%20Table%20Topics%20Questions.pdf</string>
+		<key>question</key>
+		<string>What&apos;s something most people don&apos;t know about you?</string>
+	</dict>
+	<dict>
+		<key>category</key>
+		<string>Hobbies</string>
+		<key>intro</key>
+		<string></string>
+		<key>min</key>
+		<integer>2</integer>
+		<key>max</key>
+		<integer>3</integer>
+		<key>source</key>
+		<string>http://www.dist8tm.org/docs/TM-%20365%20Sample%20Table%20Topics%20Questions.pdf</string>
+		<key>question</key>
+		<string>When you have a random hour of free time, what do you usually do?</string>
+	</dict>
+	<dict>
+		<key>category</key>
+		<string>Mirror Mirror</string>
+		<key>intro</key>
+		<string></string>
+		<key>min</key>
+		<integer>2</integer>
+		<key>max</key>
+		<integer>3</integer>
+		<key>source</key>
+		<string>http://www.dist8tm.org/docs/TM-%20365%20Sample%20Table%20Topics%20Questions.pdf</string>
+		<key>question</key>
+		<string>What makes you weird?</string>
+	</dict>
+	<dict>
+		<key>category</key>
+		<string>Parallel Universe</string>
+		<key>intro</key>
+		<string></string>
+		<key>min</key>
+		<integer>2</integer>
+		<key>max</key>
+		<integer>3</integer>
+		<key>source</key>
+		<string>http://www.dist8tm.org/docs/TM-%20365%20Sample%20Table%20Topics%20Questions.pdf</string>
+		<key>question</key>
+		<string>If you could relive yesterday what would you do differently?</string>
+	</dict>
+	<dict>
+		<key>category</key>
+		<string>Hobbies</string>
+		<key>intro</key>
+		<string></string>
+		<key>min</key>
+		<integer>2</integer>
+		<key>max</key>
+		<integer>3</integer>
+		<key>source</key>
+		<string>http://www.dist8tm.org/docs/TM-%20365%20Sample%20Table%20Topics%20Questions.pdf</string>
+		<key>question</key>
+		<string>What do you do over and over again that you hate doing?</string>
+	</dict>
+	<dict>
+		<key>category</key>
+		<string>Parallel Universe</string>
+		<key>intro</key>
+		<string></string>
+		<key>min</key>
+		<integer>2</integer>
+		<key>max</key>
+		<integer>3</integer>
+		<key>source</key>
+		<string>http://www.dist8tm.org/docs/TM-%20365%20Sample%20Table%20Topics%20Questions.pdf</string>
+		<key>question</key>
+		<string>Would you rather your child be less attractive and extremely intelligent or extremely attractive and less intelligent?</string>
+	</dict>
+	<dict>
+		<key>category</key>
+		<string>Mirror Mirror</string>
+		<key>intro</key>
+		<string></string>
+		<key>min</key>
+		<integer>2</integer>
+		<key>max</key>
+		<integer>3</integer>
+		<key>source</key>
+		<string>http://www.dist8tm.org/docs/TM-%20365%20Sample%20Table%20Topics%20Questions.pdf</string>
+		<key>question</key>
+		<string>What white lies do you often tell?</string>
+	</dict>
+	<dict>
+		<key>category</key>
+		<string>Time Machine</string>
+		<key>intro</key>
+		<string></string>
+		<key>min</key>
+		<integer>2</integer>
+		<key>max</key>
+		<integer>3</integer>
+		<key>source</key>
+		<string>http://www.dist8tm.org/docs/TM-%20365%20Sample%20Table%20Topics%20Questions.pdf</string>
+		<key>question</key>
+		<string>What is the biggest change you have made in your life in the last year?</string>
+	</dict>
+	<dict>
+		<key>category</key>
+		<string>Learning</string>
+		<key>intro</key>
+		<string></string>
+		<key>min</key>
+		<integer>2</integer>
+		<key>max</key>
+		<integer>3</integer>
+		<key>source</key>
+		<string>http://www.dist8tm.org/docs/TM-%20365%20Sample%20Table%20Topics%20Questions.pdf</string>
+		<key>question</key>
+		<string>What do you understand today about your life that you did not understand a year ago?</string>
+	</dict>
+	<dict>
+		<key>category</key>
+		<string>Idol Worship</string>
+		<key>intro</key>
+		<string></string>
+		<key>min</key>
+		<integer>2</integer>
+		<key>max</key>
+		<integer>3</integer>
+		<key>source</key>
+		<string>http://www.dist8tm.org/docs/TM-%20365%20Sample%20Table%20Topics%20Questions.pdf</string>
+		<key>question</key>
+		<string>Whose life have you had the greatest impact on?</string>
+	</dict>
+	<dict>
+		<key>category</key>
+		<string>Learning</string>
+		<key>intro</key>
+		<string></string>
+		<key>min</key>
+		<integer>2</integer>
+		<key>max</key>
+		<integer>3</integer>
+		<key>source</key>
+		<string>http://www.dist8tm.org/docs/TM-%20365%20Sample%20Table%20Topics%20Questions.pdf</string>
+		<key>question</key>
+		<string>What did life teach you yesterday?</string>
+	</dict>
+	<dict>
+		<key>category</key>
+		<string>Idol Worship</string>
+		<key>intro</key>
+		<string></string>
+		<key>min</key>
+		<integer>2</integer>
+		<key>max</key>
+		<integer>3</integer>
+		<key>source</key>
+		<string>http://www.dist8tm.org/docs/TM-%20365%20Sample%20Table%20Topics%20Questions.pdf</string>
+		<key>question</key>
+		<string>Who impresses you?</string>
+	</dict>
+	<dict>
+		<key>category</key>
+		<string>Time Machine</string>
+		<key>intro</key>
+		<string></string>
+		<key>min</key>
+		<integer>2</integer>
+		<key>max</key>
+		<integer>3</integer>
+		<key>source</key>
+		<string>http://www.dist8tm.org/docs/TM-%20365%20Sample%20Table%20Topics%20Questions.pdf</string>
+		<key>question</key>
+		<string>What have you done that you are not proud of?</string>
+	</dict>
+	<dict>
+		<key>category</key>
+		<string>Define This</string>
+		<key>intro</key>
+		<string></string>
+		<key>min</key>
+		<integer>2</integer>
+		<key>max</key>
+		<integer>3</integer>
+		<key>source</key>
+		<string>http://www.dist8tm.org/docs/TM-%20365%20Sample%20Table%20Topics%20Questions.pdf</string>
+		<key>question</key>
+		<string>When should you reveal a secret that you promised you wouldn&apos;t reveal?</string>
+	</dict>
+	<dict>
+		<key>category</key>
+		<string>Parallel Universe</string>
+		<key>intro</key>
+		<string></string>
+		<key>min</key>
+		<integer>2</integer>
+		<key>max</key>
+		<integer>3</integer>
+		<key>source</key>
+		<string>http://www.dist8tm.org/docs/TM-%20365%20Sample%20Table%20Topics%20Questions.pdf</string>
+		<key>question</key>
+		<string>How would you spend your ideal day?</string>
+	</dict>
+	<dict>
+		<key>category</key>
+		<string>Idol Worship</string>
+		<key>intro</key>
+		<string></string>
+		<key>min</key>
+		<integer>2</integer>
+		<key>max</key>
+		<integer>3</integer>
+		<key>source</key>
+		<string>http://www.dist8tm.org/docs/TM-%20365%20Sample%20Table%20Topics%20Questions.pdf</string>
+		<key>question</key>
+		<string>What is the one primary quality you look for in a significant other?</string>
+	</dict>
+	<dict>
+		<key>category</key>
+		<string>Idol Worship</string>
+		<key>intro</key>
+		<string></string>
+		<key>min</key>
+		<integer>2</integer>
+		<key>max</key>
+		<integer>3</integer>
+		<key>source</key>
+		<string>http://www.dist8tm.org/docs/TM-%20365%20Sample%20Table%20Topics%20Questions.pdf</string>
+		<key>question</key>
+		<string>What do you admire most about your mother and father?</string>
+	</dict>
+	<dict>
+		<key>category</key>
+		<string>Famous Words</string>
+		<key>intro</key>
+		<string></string>
+		<key>min</key>
+		<integer>2</integer>
+		<key>max</key>
+		<integer>3</integer>
+		<key>source</key>
+		<string>http://www.dist8tm.org/docs/TM-%20365%20Sample%20Table%20Topics%20Questions.pdf</string>
+		<key>question</key>
+		<string>What is the best advice you have ever received?</string>
+	</dict>
+	<dict>
+		<key>category</key>
+		<string>Parallel Universe</string>
+		<key>intro</key>
+		<string></string>
+		<key>min</key>
+		<integer>2</integer>
+		<key>max</key>
+		<integer>3</integer>
+		<key>source</key>
+		<string>http://www.dist8tm.org/docs/TM-%20365%20Sample%20Table%20Topics%20Questions.pdf</string>
+		<key>question</key>
+		<string>If you could live forever, would you want to? Why?</string>
+	</dict>
+	<dict>
+		<key>category</key>
+		<string>Idol Worship</string>
+		<key>intro</key>
+		<string></string>
+		<key>min</key>
+		<integer>2</integer>
+		<key>max</key>
+		<integer>3</integer>
+		<key>source</key>
+		<string>http://www.dist8tm.org/docs/TM-%20365%20Sample%20Table%20Topics%20Questions.pdf</string>
+		<key>question</key>
+		<string>If you had to be someone else for one day, who would you be and why?</string>
+	</dict>
+	<dict>
+		<key>category</key>
+		<string>Time Machine</string>
+		<key>intro</key>
+		<string></string>
+		<key>min</key>
+		<integer>2</integer>
+		<key>max</key>
+		<integer>3</integer>
+		<key>source</key>
+		<string>http://www.dist8tm.org/docs/TM-%20365%20Sample%20Table%20Topics%20Questions.pdf</string>
+		<key>question</key>
+		<string>What positive changes have you made in your life recently?</string>
+	</dict>
+	<dict>
+		<key>category</key>
+		<string>Idol Worship</string>
+		<key>intro</key>
+		<string></string>
+		<key>min</key>
+		<integer>2</integer>
+		<key>max</key>
+		<integer>3</integer>
+		<key>source</key>
+		<string>http://www.dist8tm.org/docs/TM-%20365%20Sample%20Table%20Topics%20Questions.pdf</string>
+		<key>question</key>
+		<string>Who makes you feel good about yourself?</string>
+	</dict>
+	<dict>
+		<key>category</key>
+		<string>Time Machine</string>
+		<key>intro</key>
+		<string></string>
+		<key>min</key>
+		<integer>2</integer>
+		<key>max</key>
+		<integer>3</integer>
+		<key>source</key>
+		<string>http://www.dist8tm.org/docs/TM-%20365%20Sample%20Table%20Topics%20Questions.pdf</string>
+		<key>question</key>
+		<string>What is your biggest regret?</string>
+	</dict>
+	<dict>
+		<key>category</key>
+		<string>Define This</string>
+		<key>intro</key>
+		<string></string>
+		<key>min</key>
+		<integer>2</integer>
+		<key>max</key>
+		<integer>3</integer>
+		<key>source</key>
+		<string>http://www.dist8tm.org/docs/TM-%20365%20Sample%20Table%20Topics%20Questions.pdf</string>
+		<key>question</key>
+		<string>Which one of your responsibilities do you wish you could get rid of?</string>
+	</dict>
+	<dict>
+		<key>category</key>
+		<string>Mirror Mirror</string>
+		<key>intro</key>
+		<string></string>
+		<key>min</key>
+		<integer>2</integer>
+		<key>max</key>
+		<integer>3</integer>
+		<key>source</key>
+		<string>http://www.dist8tm.org/docs/TM-%20365%20Sample%20Table%20Topics%20Questions.pdf</string>
+		<key>question</key>
+		<string>What&apos;s something you don&apos;t like to do that you are still really good at?</string>
+	</dict>
+	<dict>
+		<key>category</key>
+		<string>Idol Worship</string>
+		<key>intro</key>
+		<string></string>
+		<key>min</key>
+		<integer>2</integer>
+		<key>max</key>
+		<integer>3</integer>
+		<key>source</key>
+		<string>http://www.dist8tm.org/docs/TM-%20365%20Sample%20Table%20Topics%20Questions.pdf</string>
+		<key>question</key>
+		<string>What type of person angers you the most?</string>
+	</dict>
+	<dict>
+		<key>category</key>
+		<string>Mirror Mirror</string>
+		<key>intro</key>
+		<string></string>
+		<key>min</key>
+		<integer>2</integer>
+		<key>max</key>
+		<integer>3</integer>
+		<key>source</key>
+		<string>http://www.dist8tm.org/docs/TM-%20365%20Sample%20Table%20Topics%20Questions.pdf</string>
+		<key>question</key>
+		<string>What is missing in your life?</string>
+	</dict>
+	<dict>
+		<key>category</key>
+		<string>Idol Worship</string>
+		<key>intro</key>
+		<string></string>
+		<key>min</key>
+		<integer>2</integer>
+		<key>max</key>
+		<integer>3</integer>
+		<key>source</key>
+		<string>http://www.dist8tm.org/docs/TM-%20365%20Sample%20Table%20Topics%20Questions.pdf</string>
+		<key>question</key>
+		<string>What is your most striking physical attribute?</string>
+	</dict>
+	<dict>
+		<key>category</key>
+		<string>Daredevil</string>
+		<key>intro</key>
+		<string></string>
+		<key>min</key>
+		<integer>2</integer>
+		<key>max</key>
+		<integer>3</integer>
+		<key>source</key>
+		<string>http://www.dist8tm.org/docs/TM-%20365%20Sample%20Table%20Topics%20Questions.pdf</string>
+		<key>question</key>
+		<string>What has fear of failure stopped you from doing?</string>
+	</dict>
+	<dict>
+		<key>category</key>
+		<string>Idol Worship</string>
+		<key>intro</key>
+		<string></string>
+		<key>min</key>
+		<integer>2</integer>
+		<key>max</key>
+		<integer>3</integer>
+		<key>source</key>
+		<string>http://www.dist8tm.org/docs/TM-%20365%20Sample%20Table%20Topics%20Questions.pdf</string>
+		<key>question</key>
+		<string>Who would you like to please the most?</string>
+	</dict>
+	<dict>
+		<key>category</key>
+		<string>Time Machine</string>
+		<key>intro</key>
+		<string></string>
+		<key>min</key>
+		<integer>2</integer>
+		<key>max</key>
+		<integer>3</integer>
+		<key>source</key>
+		<string>http://www.dist8tm.org/docs/TM-%20365%20Sample%20Table%20Topics%20Questions.pdf</string>
+		<key>question</key>
+		<string>If you could go back in time and change things, what would you change about the week that just passed?</string>
+	</dict>
+	<dict>
+		<key>category</key>
+		<string>Mirror Mirror</string>
+		<key>intro</key>
+		<string></string>
+		<key>min</key>
+		<integer>2</integer>
+		<key>max</key>
+		<integer>3</integer>
+		<key>source</key>
+		<string>http://www.dist8tm.org/docs/TM-%20365%20Sample%20Table%20Topics%20Questions.pdf</string>
+		<key>question</key>
+		<string>When you meet someone for the very first time what do you want them to think about you?</string>
+	</dict>
+	<dict>
+		<key>category</key>
+		<string>Idol Worship</string>
+		<key>intro</key>
+		<string></string>
+		<key>min</key>
+		<integer>2</integer>
+		<key>max</key>
+		<integer>3</integer>
+		<key>source</key>
+		<string>http://www.dist8tm.org/docs/TM-%20365%20Sample%20Table%20Topics%20Questions.pdf</string>
+		<key>question</key>
+		<string>Who would you like to forgive?</string>
+	</dict>
+	<dict>
+		<key>category</key>
+		<string>Time Machine</string>
+		<key>intro</key>
+		<string></string>
+		<key>min</key>
+		<integer>2</integer>
+		<key>max</key>
+		<integer>3</integer>
+		<key>source</key>
+		<string>http://www.dist8tm.org/docs/TM-%20365%20Sample%20Table%20Topics%20Questions.pdf</string>
+		<key>question</key>
+		<string>At what point during the last five years have you felt lost and alone?</string>
+	</dict>
+	<dict>
+		<key>category</key>
+		<string>Time Machine</string>
+		<key>intro</key>
+		<string></string>
+		<key>min</key>
+		<integer>2</integer>
+		<key>max</key>
+		<integer>3</integer>
+		<key>source</key>
+		<string>http://www.dist8tm.org/docs/TM-%20365%20Sample%20Table%20Topics%20Questions.pdf</string>
+		<key>question</key>
+		<string>What is one opportunity you believe you missed out on when you were younger?</string>
+	</dict>
+	<dict>
+		<key>category</key>
+		<string>Mirror Mirror</string>
+		<key>intro</key>
+		<string></string>
+		<key>min</key>
+		<integer>2</integer>
+		<key>max</key>
+		<integer>3</integer>
+		<key>source</key>
+		<string>http://www.dist8tm.org/docs/TM-%20365%20Sample%20Table%20Topics%20Questions.pdf</string>
+		<key>question</key>
+		<string>What do you want more of in your life?</string>
+	</dict>
+	<dict>
+		<key>category</key>
+		<string>Mirror Mirror</string>
+		<key>intro</key>
+		<string></string>
+		<key>min</key>
+		<integer>2</integer>
+		<key>max</key>
+		<integer>3</integer>
+		<key>source</key>
+		<string>http://www.dist8tm.org/docs/TM-%20365%20Sample%20Table%20Topics%20Questions.pdf</string>
+		<key>question</key>
+		<string>What do you want less of in your life?</string>
+	</dict>
+	<dict>
+		<key>category</key>
+		<string>Idol Worship</string>
+		<key>intro</key>
+		<string></string>
+		<key>min</key>
+		<integer>2</integer>
+		<key>max</key>
+		<integer>3</integer>
+		<key>source</key>
+		<string>http://www.dist8tm.org/docs/TM-%20365%20Sample%20Table%20Topics%20Questions.pdf</string>
+		<key>question</key>
+		<string>Who depends on you?</string>
+	</dict>
+	<dict>
+		<key>category</key>
+		<string>Idol Worship</string>
+		<key>intro</key>
+		<string></string>
+		<key>min</key>
+		<integer>2</integer>
+		<key>max</key>
+		<integer>3</integer>
+		<key>source</key>
+		<string>http://www.dist8tm.org/docs/TM-%20365%20Sample%20Table%20Topics%20Questions.pdf</string>
+		<key>question</key>
+		<string>Who has had the greatest impact on your life?</string>
+	</dict>
+	<dict>
+		<key>category</key>
+		<string>Mirror Mirror</string>
+		<key>intro</key>
+		<string></string>
+		<key>min</key>
+		<integer>2</integer>
+		<key>max</key>
+		<integer>3</integer>
+		<key>source</key>
+		<string>http://www.dist8tm.org/docs/TM-%20365%20Sample%20Table%20Topics%20Questions.pdf</string>
+		<key>question</key>
+		<string>Are you happy with where you are in your life? Why?</string>
+	</dict>
+	<dict>
+		<key>category</key>
+		<string>Time Machine</string>
+		<key>intro</key>
+		<string></string>
+		<key>min</key>
+		<integer>2</integer>
+		<key>max</key>
+		<integer>3</integer>
+		<key>source</key>
+		<string>http://www.dist8tm.org/docs/TM-%20365%20Sample%20Table%20Topics%20Questions.pdf</string>
+		<key>question</key>
+		<string>In one year from today, how do you think your life will be different?</string>
+	</dict>
+	<dict>
+		<key>category</key>
+		<string>Time Machine</string>
+		<key>intro</key>
+		<string></string>
+		<key>min</key>
+		<integer>2</integer>
+		<key>max</key>
+		<integer>3</integer>
+		<key>source</key>
+		<string>http://www.dist8tm.org/docs/TM-%20365%20Sample%20Table%20Topics%20Questions.pdf</string>
+		<key>question</key>
+		<string>How have you sabotaged yourself in the past five years?</string>
+	</dict>
+	<dict>
+		<key>category</key>
+		<string>Time Machine</string>
+		<key>intro</key>
+		<string></string>
+		<key>min</key>
+		<integer>2</integer>
+		<key>max</key>
+		<integer>3</integer>
+		<key>source</key>
+		<string>http://www.dist8tm.org/docs/TM-%20365%20Sample%20Table%20Topics%20Questions.pdf</string>
+		<key>question</key>
+		<string>Other than money, what else have you gained from your current job?</string>
+	</dict>
+	<dict>
+		<key>category</key>
+		<string>Idol Worship</string>
+		<key>intro</key>
+		<string></string>
+		<key>min</key>
+		<integer>2</integer>
+		<key>max</key>
+		<integer>3</integer>
+		<key>source</key>
+		<string>http://www.dist8tm.org/docs/TM-%20365%20Sample%20Table%20Topics%20Questions.pdf</string>
+		<key>question</key>
+		<string>Whom do you secretly envy? Why?</string>
+	</dict>
+	<dict>
+		<key>category</key>
+		<string>Time Machine</string>
+		<key>intro</key>
+		<string></string>
+		<key>min</key>
+		<integer>2</integer>
+		<key>max</key>
+		<integer>3</integer>
+		<key>source</key>
+		<string>http://www.dist8tm.org/docs/TM-%20365%20Sample%20Table%20Topics%20Questions.pdf</string>
+		<key>question</key>
+		<string>In twenty years, what do you want to remember?</string>
+	</dict>
+	<dict>
+		<key>category</key>
+		<string>Mirror Mirror</string>
+		<key>intro</key>
+		<string></string>
+		<key>min</key>
+		<integer>2</integer>
+		<key>max</key>
+		<integer>3</integer>
+		<key>source</key>
+		<string>http://www.dist8tm.org/docs/TM-%20365%20Sample%20Table%20Topics%20Questions.pdf</string>
+		<key>question</key>
+		<string>What are you most excited about in your life right now – today?</string>
+	</dict>
+	<dict>
+		<key>category</key>
+		<string>Time Machine</string>
+		<key>intro</key>
+		<string></string>
+		<key>min</key>
+		<integer>2</integer>
+		<key>max</key>
+		<integer>3</integer>
+		<key>source</key>
+		<string>http://www.dist8tm.org/docs/TM-%20365%20Sample%20Table%20Topics%20Questions.pdf</string>
+		<key>question</key>
+		<string>What experience from this past year do you appreciate the most?</string>
+	</dict>
+	<dict>
+		<key>category</key>
+		<string>Time Machine</string>
+		<key>intro</key>
+		<string></string>
+		<key>min</key>
+		<integer>2</integer>
+		<key>max</key>
+		<integer>3</integer>
+		<key>source</key>
+		<string>http://www.dist8tm.org/docs/TM-%20365%20Sample%20Table%20Topics%20Questions.pdf</string>
+		<key>question</key>
+		<string>What is the most enjoyable thing your family has done together in the last three years?</string>
+	</dict>
+	<dict>
+		<key>category</key>
+		<string>Hobbies</string>
+		<key>intro</key>
+		<string></string>
+		<key>min</key>
+		<integer>2</integer>
+		<key>max</key>
+		<integer>3</integer>
+		<key>source</key>
+		<string>http://www.dist8tm.org/docs/TM-%20365%20Sample%20Table%20Topics%20Questions.pdf</string>
+		<key>question</key>
+		<string>How many hours of television do you watch in a week? A month? A year?</string>
+	</dict>
+	<dict>
+		<key>category</key>
+		<string>Daredevil</string>
+		<key>intro</key>
+		<string></string>
+		<key>min</key>
+		<integer>2</integer>
+		<key>max</key>
+		<integer>3</integer>
+		<key>source</key>
+		<string>http://www.dist8tm.org/docs/TM-%20365%20Sample%20Table%20Topics%20Questions.pdf</string>
+		<key>question</key>
+		<string>What is the biggest obstacle that stands in your way right now?</string>
+	</dict>
+	<dict>
+		<key>category</key>
+		<string>Learning</string>
+		<key>intro</key>
+		<string></string>
+		<key>min</key>
+		<integer>2</integer>
+		<key>max</key>
+		<integer>3</integer>
+		<key>source</key>
+		<string>http://www.dist8tm.org/docs/TM-%20365%20Sample%20Table%20Topics%20Questions.pdf</string>
+		<key>question</key>
+		<string>What do you sometimes pretend you understand that you really don&apos;t?</string>
+	</dict>
+	<dict>
+		<key>category</key>
+		<string>Mirror Mirror</string>
+		<key>intro</key>
+		<string></string>
+		<key>min</key>
+		<integer>2</integer>
+		<key>max</key>
+		<integer>3</integer>
+		<key>source</key>
+		<string>http://www.dist8tm.org/docs/TM-%20365%20Sample%20Table%20Topics%20Questions.pdf</string>
+		<key>question</key>
+		<string>What do you like most about your job? What do you dislike most about your job?</string>
+	</dict>
+	<dict>
+		<key>category</key>
+		<string>Mirror Mirror</string>
+		<key>intro</key>
+		<string></string>
+		<key>min</key>
+		<integer>2</integer>
+		<key>max</key>
+		<integer>3</integer>
+		<key>source</key>
+		<string>http://www.dist8tm.org/docs/TM-%20365%20Sample%20Table%20Topics%20Questions.pdf</string>
+		<key>question</key>
+		<string>What&apos;s something new you recently learned about yourself?</string>
+	</dict>
+	<dict>
+		<key>category</key>
+		<string>Idol Worship</string>
+		<key>intro</key>
+		<string></string>
+		<key>min</key>
+		<integer>2</integer>
+		<key>max</key>
+		<integer>3</integer>
+		<key>source</key>
+		<string>http://www.dist8tm.org/docs/TM-%20365%20Sample%20Table%20Topics%20Questions.pdf</string>
+		<key>question</key>
+		<string>In one sentence, how would you describe your relationship with your mother?</string>
+	</dict>
+	<dict>
+		<key>category</key>
+		<string>Time Machine</string>
+		<key>intro</key>
+		<string></string>
+		<key>min</key>
+		<integer>2</integer>
+		<key>max</key>
+		<integer>3</integer>
+		<key>source</key>
+		<string>http://www.dist8tm.org/docs/TM-%20365%20Sample%20Table%20Topics%20Questions.pdf</string>
+		<key>question</key>
+		<string>What was the most defining moment in your life during this past year?</string>
+	</dict>
+	<dict>
+		<key>category</key>
+		<string>Hobbies</string>
+		<key>intro</key>
+		<string></string>
+		<key>min</key>
+		<integer>2</integer>
+		<key>max</key>
+		<integer>3</integer>
+		<key>source</key>
+		<string>http://www.dist8tm.org/docs/TM-%20365%20Sample%20Table%20Topics%20Questions.pdf</string>
+		<key>question</key>
+		<string>What&apos;s the number one change you need to make in your life in the next twelve months?</string>
+	</dict>
+	<dict>
+		<key>category</key>
+		<string>Define This</string>
+		<key>intro</key>
+		<string></string>
+		<key>min</key>
+		<integer>2</integer>
+		<key>max</key>
+		<integer>3</integer>
+		<key>source</key>
+		<string>http://www.dist8tm.org/docs/TM-%20365%20Sample%20Table%20Topics%20Questions.pdf</string>
+		<key>question</key>
+		<string>What makes you feel secure?</string>
+	</dict>
+	<dict>
+		<key>category</key>
+		<string>Mirror Mirror</string>
+		<key>intro</key>
+		<string></string>
+		<key>min</key>
+		<integer>2</integer>
+		<key>max</key>
+		<integer>3</integer>
+		<key>source</key>
+		<string>http://www.dist8tm.org/docs/TM-%20365%20Sample%20Table%20Topics%20Questions.pdf</string>
+		<key>question</key>
+		<string>What is your favorite sound?</string>
+	</dict>
+	<dict>
+		<key>category</key>
+		<string>Idol Worship</string>
+		<key>intro</key>
+		<string></string>
+		<key>min</key>
+		<integer>2</integer>
+		<key>max</key>
+		<integer>3</integer>
+		<key>source</key>
+		<string>http://www.dist8tm.org/docs/TM-%20365%20Sample%20Table%20Topics%20Questions.pdf</string>
+		<key>question</key>
+		<string>What are the top three qualities you look for in a friend?</string>
+	</dict>
+	<dict>
+		<key>category</key>
+		<string>Idol Worship</string>
+		<key>intro</key>
+		<string></string>
+		<key>min</key>
+		<integer>2</integer>
+		<key>max</key>
+		<integer>3</integer>
+		<key>source</key>
+		<string>http://www.dist8tm.org/docs/TM-%20365%20Sample%20Table%20Topics%20Questions.pdf</string>
+		<key>question</key>
+		<string>What simple gesture have you recently witnessed that renewed your hope in humanity?</string>
+	</dict>
+	<dict>
+		<key>category</key>
+		<string>Mirror Mirror</string>
+		<key>intro</key>
+		<string></string>
+		<key>min</key>
+		<integer>2</integer>
+		<key>max</key>
+		<integer>3</integer>
+		<key>source</key>
+		<string>http://www.dist8tm.org/docs/TM-%20365%20Sample%20Table%20Topics%20Questions.pdf</string>
+		<key>question</key>
+		<string>What is your favorite smell?</string>
+	</dict>
+	<dict>
+		<key>category</key>
+		<string>Time Machine</string>
+		<key>intro</key>
+		<string></string>
+		<key>min</key>
+		<integer>2</integer>
+		<key>max</key>
+		<integer>3</integer>
+		<key>source</key>
+		<string>http://www.dist8tm.org/docs/TM-%20365%20Sample%20Table%20Topics%20Questions.pdf</string>
+		<key>question</key>
+		<string>What recent memory makes you smile the most?</string>
+	</dict>
+	<dict>
+		<key>category</key>
+		<string>Define This</string>
+		<key>intro</key>
+		<string></string>
+		<key>min</key>
+		<integer>2</integer>
+		<key>max</key>
+		<integer>3</integer>
+		<key>source</key>
+		<string>http://www.dist8tm.org/docs/TM-%20365%20Sample%20Table%20Topics%20Questions.pdf</string>
+		<key>question</key>
+		<string>In one word, how would you describe your childhood?</string>
+	</dict>
+	<dict>
+		<key>category</key>
+		<string>Idol Worship</string>
+		<key>intro</key>
+		<string></string>
+		<key>min</key>
+		<integer>2</integer>
+		<key>max</key>
+		<integer>3</integer>
+		<key>source</key>
+		<string>http://www.dist8tm.org/docs/TM-%20365%20Sample%20Table%20Topics%20Questions.pdf</string>
+		<key>question</key>
+		<string>What celebrities do you admire? Why?</string>
+	</dict>
+	<dict>
+		<key>category</key>
+		<string>Daredevil</string>
+		<key>intro</key>
+		<string></string>
+		<key>min</key>
+		<integer>2</integer>
+		<key>max</key>
+		<integer>3</integer>
+		<key>source</key>
+		<string>http://www.dist8tm.org/docs/TM-%20365%20Sample%20Table%20Topics%20Questions.pdf</string>
+		<key>question</key>
+		<string>What is the number one motivator in your life right now?</string>
+	</dict>
+	<dict>
+		<key>category</key>
+		<string>Hobbies</string>
+		<key>intro</key>
+		<string></string>
+		<key>min</key>
+		<integer>2</integer>
+		<key>max</key>
+		<integer>3</integer>
+		<key>source</key>
+		<string>http://www.dist8tm.org/docs/TM-%20365%20Sample%20Table%20Topics%20Questions.pdf</string>
+		<key>question</key>
+		<string>What music do you listen to to lift your spirits when you&apos;re feeling down?</string>
+	</dict>
+	<dict>
+		<key>category</key>
+		<string>Parallel Universe</string>
+		<key>intro</key>
+		<string></string>
+		<key>min</key>
+		<integer>2</integer>
+		<key>max</key>
+		<integer>3</integer>
+		<key>source</key>
+		<string>http://www.dist8tm.org/docs/TM-%20365%20Sample%20Table%20Topics%20Questions.pdf</string>
+		<key>question</key>
+		<string>If I gave you $1000 and told you that you had to spend it today, what would you buy?</string>
+	</dict>
+	<dict>
+		<key>category</key>
+		<string>Time Machine</string>
+		<key>intro</key>
+		<string></string>
+		<key>min</key>
+		<integer>2</integer>
+		<key>max</key>
+		<integer>3</integer>
+		<key>source</key>
+		<string>http://www.dist8tm.org/docs/TM-%20365%20Sample%20Table%20Topics%20Questions.pdf</string>
+		<key>question</key>
+		<string>What was the last thing that made you laugh out loud?</string>
+	</dict>
+	<dict>
+		<key>category</key>
+		<string>Mirror Mirror</string>
+		<key>intro</key>
+		<string></string>
+		<key>min</key>
+		<integer>2</integer>
+		<key>max</key>
+		<integer>3</integer>
+		<key>source</key>
+		<string>http://www.dist8tm.org/docs/TM-%20365%20Sample%20Table%20Topics%20Questions.pdf</string>
+		<key>question</key>
+		<string>What is your biggest pet peeve?</string>
+	</dict>
+	<dict>
+		<key>category</key>
+		<string>Idol Worship</string>
+		<key>intro</key>
+		<string></string>
+		<key>min</key>
+		<integer>2</integer>
+		<key>max</key>
+		<integer>3</integer>
+		<key>source</key>
+		<string>http://www.dist8tm.org/docs/TM-%20365%20Sample%20Table%20Topics%20Questions.pdf</string>
+		<key>question</key>
+		<string>Who was the last person you said “I love you” to?</string>
+	</dict>
+	<dict>
+		<key>category</key>
+		<string>Mirror Mirror</string>
+		<key>intro</key>
+		<string></string>
+		<key>min</key>
+		<integer>2</integer>
+		<key>max</key>
+		<integer>3</integer>
+		<key>source</key>
+		<string>http://www.dist8tm.org/docs/TM-%20365%20Sample%20Table%20Topics%20Questions.pdf</string>
+		<key>question</key>
+		<string>What is your biggest phobia?</string>
+	</dict>
+	<dict>
+		<key>category</key>
+		<string>Idol Worship</string>
+		<key>intro</key>
+		<string></string>
+		<key>min</key>
+		<integer>2</integer>
+		<key>max</key>
+		<integer>3</integer>
+		<key>source</key>
+		<string>http://www.dist8tm.org/docs/TM-%20365%20Sample%20Table%20Topics%20Questions.pdf</string>
+		<key>question</key>
+		<string>What are some recent compliments you&apos;ve received?</string>
+	</dict>
+	<dict>
+		<key>category</key>
+		<string>Idol Worship</string>
+		<key>intro</key>
+		<string></string>
+		<key>min</key>
+		<integer>2</integer>
+		<key>max</key>
+		<integer>3</integer>
+		<key>source</key>
+		<string>http://www.dist8tm.org/docs/TM-%20365%20Sample%20Table%20Topics%20Questions.pdf</string>
+		<key>question</key>
+		<string>How many friends do you have in real life that you talk to regularly?</string>
+	</dict>
+	<dict>
+		<key>category</key>
+		<string>Daredevil</string>
+		<key>intro</key>
+		<string></string>
+		<key>min</key>
+		<integer>2</integer>
+		<key>max</key>
+		<integer>3</integer>
+		<key>source</key>
+		<string>http://www.dist8tm.org/docs/TM-%20365%20Sample%20Table%20Topics%20Questions.pdf</string>
+		<key>question</key>
+		<string>How much money per month is enough for you to live comfortably?</string>
+	</dict>
+	<dict>
+		<key>category</key>
+		<string>Learning</string>
+		<key>intro</key>
+		<string></string>
+		<key>min</key>
+		<integer>2</integer>
+		<key>max</key>
+		<integer>3</integer>
+		<key>source</key>
+		<string>http://www.dist8tm.org/docs/TM-%20365%20Sample%20Table%20Topics%20Questions.pdf</string>
+		<key>question</key>
+		<string>When was your first impression of someone totally wrong?</string>
+	</dict>
+	<dict>
+		<key>category</key>
+		<string>Hobbies</string>
+		<key>intro</key>
+		<string></string>
+		<key>min</key>
+		<integer>2</integer>
+		<key>max</key>
+		<integer>3</integer>
+		<key>source</key>
+		<string>http://www.dist8tm.org/docs/TM-%20365%20Sample%20Table%20Topics%20Questions.pdf</string>
+		<key>question</key>
+		<string>How many hours a week do you spend online?</string>
+	</dict>
+	<dict>
+		<key>category</key>
+		<string>Hobbies</string>
+		<key>intro</key>
+		<string></string>
+		<key>min</key>
+		<integer>2</integer>
+		<key>max</key>
+		<integer>3</integer>
+		<key>source</key>
+		<string>http://www.dist8tm.org/docs/TM-%20365%20Sample%20Table%20Topics%20Questions.pdf</string>
+		<key>question</key>
+		<string>What do you love to do?</string>
+	</dict>
+	<dict>
+		<key>category</key>
+		<string>Idol Worship</string>
+		<key>intro</key>
+		<string></string>
+		<key>min</key>
+		<integer>2</integer>
+		<key>max</key>
+		<integer>3</integer>
+		<key>source</key>
+		<string>http://www.dist8tm.org/docs/TM-%20365%20Sample%20Table%20Topics%20Questions.pdf</string>
+		<key>question</key>
+		<string>What specific character trait do you want to be known for?</string>
+	</dict>
+	<dict>
+		<key>category</key>
+		<string>Idol Worship</string>
+		<key>intro</key>
+		<string></string>
+		<key>min</key>
+		<integer>2</integer>
+		<key>max</key>
+		<integer>3</integer>
+		<key>source</key>
+		<string>http://www.dist8tm.org/docs/TM-%20365%20Sample%20Table%20Topics%20Questions.pdf</string>
+		<key>question</key>
+		<string>Are you more like your mom or your dad? In what way?</string>
+	</dict>
+	<dict>
+		<key>category</key>
+		<string>Idol Worship</string>
+		<key>intro</key>
+		<string></string>
+		<key>min</key>
+		<integer>2</integer>
+		<key>max</key>
+		<integer>3</integer>
+		<key>source</key>
+		<string>http://www.dist8tm.org/docs/TM-%20365%20Sample%20Table%20Topics%20Questions.pdf</string>
+		<key>question</key>
+		<string>What is the number one quality that makes someone a good leader?</string>
+	</dict>
+	<dict>
+		<key>category</key>
+		<string>Hobbies</string>
+		<key>intro</key>
+		<string></string>
+		<key>min</key>
+		<integer>2</integer>
+		<key>max</key>
+		<integer>3</integer>
+		<key>source</key>
+		<string>http://www.dist8tm.org/docs/TM-%20365%20Sample%20Table%20Topics%20Questions.pdf</string>
+		<key>question</key>
+		<string>What bad habits do you want to break?</string>
+	</dict>
+	<dict>
+		<key>category</key>
+		<string>Mirror Mirror</string>
+		<key>intro</key>
+		<string></string>
+		<key>min</key>
+		<integer>2</integer>
+		<key>max</key>
+		<integer>3</integer>
+		<key>source</key>
+		<string>http://www.dist8tm.org/docs/TM-%20365%20Sample%20Table%20Topics%20Questions.pdf</string>
+		<key>question</key>
+		<string>What is your favorite place on Earth?</string>
+	</dict>
+	<dict>
+		<key>category</key>
+		<string>Hobbies</string>
+		<key>intro</key>
+		<string></string>
+		<key>min</key>
+		<integer>2</integer>
+		<key>max</key>
+		<integer>3</integer>
+		<key>source</key>
+		<string>http://www.dist8tm.org/docs/TM-%20365%20Sample%20Table%20Topics%20Questions.pdf</string>
+		<key>question</key>
+		<string>What do you love to practice?</string>
+	</dict>
+	<dict>
+		<key>category</key>
+		<string>Mirror Mirror</string>
+		<key>intro</key>
+		<string></string>
+		<key>min</key>
+		<integer>2</integer>
+		<key>max</key>
+		<integer>3</integer>
+		<key>source</key>
+		<string>http://www.dist8tm.org/docs/TM-%20365%20Sample%20Table%20Topics%20Questions.pdf</string>
+		<key>question</key>
+		<string>What questions do you often ask yourself?</string>
+	</dict>
+	<dict>
+		<key>category</key>
+		<string>Learning</string>
+		<key>intro</key>
+		<string></string>
+		<key>min</key>
+		<integer>2</integer>
+		<key>max</key>
+		<integer>3</integer>
+		<key>source</key>
+		<string>http://www.dist8tm.org/docs/TM-%20365%20Sample%20Table%20Topics%20Questions.pdf</string>
+		<key>question</key>
+		<string>What are you an expert at?</string>
+	</dict>
+	<dict>
+		<key>category</key>
+		<string>Parallel Universe</string>
+		<key>intro</key>
+		<string></string>
+		<key>min</key>
+		<integer>2</integer>
+		<key>max</key>
+		<integer>3</integer>
+		<key>source</key>
+		<string>http://www.dist8tm.org/docs/TM-%20365%20Sample%20Table%20Topics%20Questions.pdf</string>
+		<key>question</key>
+		<string>How would an extra $1000 a month change your life?</string>
+	</dict>
+	<dict>
+		<key>category</key>
+		<string>Famous Words</string>
+		<key>intro</key>
+		<string></string>
+		<key>min</key>
+		<integer>2</integer>
+		<key>max</key>
+		<integer>3</integer>
+		<key>source</key>
+		<string>http://www.dist8tm.org/docs/TM-%20365%20Sample%20Table%20Topics%20Questions.pdf</string>
+		<key>question</key>
+		<string>What things in life should always be free?</string>
+	</dict>
+	<dict>
+		<key>category</key>
+		<string>Mirror Mirror</string>
+		<key>intro</key>
+		<string></string>
+		<key>min</key>
+		<integer>2</integer>
+		<key>max</key>
+		<integer>3</integer>
+		<key>source</key>
+		<string>http://www.dist8tm.org/docs/TM-%20365%20Sample%20Table%20Topics%20Questions.pdf</string>
+		<key>question</key>
+		<string>What is your favorite time of the year?</string>
+	</dict>
+	<dict>
+		<key>category</key>
+		<string>Time Machine</string>
+		<key>intro</key>
+		<string></string>
+		<key>min</key>
+		<integer>2</integer>
+		<key>max</key>
+		<integer>3</integer>
+		<key>source</key>
+		<string>http://www.dist8tm.org/docs/TM-%20365%20Sample%20Table%20Topics%20Questions.pdf</string>
+		<key>question</key>
+		<string>What is something you have always wanted since you were a kid?</string>
+	</dict>
+	<dict>
+		<key>category</key>
+		<string>Parallel Universe</string>
+		<key>intro</key>
+		<string></string>
+		<key>min</key>
+		<integer>2</integer>
+		<key>max</key>
+		<integer>3</integer>
+		<key>source</key>
+		<string>http://www.dist8tm.org/docs/TM-%20365%20Sample%20Table%20Topics%20Questions.pdf</string>
+		<key>question</key>
+		<string>What is the most recent dream you remember having while sleeping?</string>
+	</dict>
+	<dict>
+		<key>category</key>
+		<string>Learning</string>
+		<key>intro</key>
+		<string></string>
+		<key>min</key>
+		<integer>2</integer>
+		<key>max</key>
+		<integer>3</integer>
+		<key>source</key>
+		<string>http://www.dist8tm.org/docs/TM-%20365%20Sample%20Table%20Topics%20Questions.pdf</string>
+		<key>question</key>
+		<string>What confuses you?</string>
+	</dict>
+	<dict>
+		<key>category</key>
+		<string>Idol Worship</string>
+		<key>intro</key>
+		<string></string>
+		<key>min</key>
+		<integer>2</integer>
+		<key>max</key>
+		<integer>3</integer>
+		<key>source</key>
+		<string>http://www.dist8tm.org/docs/TM-%20365%20Sample%20Table%20Topics%20Questions.pdf</string>
+		<key>question</key>
+		<string>In what way are you your own worst enemy?</string>
+	</dict>
+	<dict>
+		<key>category</key>
+		<string>Time Machine</string>
+		<key>intro</key>
+		<string></string>
+		<key>min</key>
+		<integer>2</integer>
+		<key>max</key>
+		<integer>3</integer>
+		<key>source</key>
+		<string>http://www.dist8tm.org/docs/TM-%20365%20Sample%20Table%20Topics%20Questions.pdf</string>
+		<key>question</key>
+		<string>When did you not speak up when you should have?</string>
+	</dict>
+	<dict>
+		<key>category</key>
+		<string>Famous Words</string>
+		<key>intro</key>
+		<string></string>
+		<key>min</key>
+		<integer>2</integer>
+		<key>max</key>
+		<integer>3</integer>
+		<key>source</key>
+		<string>http://www.dist8tm.org/docs/TM-%20365%20Sample%20Table%20Topics%20Questions.pdf</string>
+		<key>question</key>
+		<string>What is your favorite quote?</string>
+	</dict>
+	<dict>
+		<key>category</key>
+		<string>Learning</string>
+		<key>intro</key>
+		<string></string>
+		<key>min</key>
+		<integer>2</integer>
+		<key>max</key>
+		<integer>3</integer>
+		<key>source</key>
+		<string>http://www.dist8tm.org/docs/TM-%20365%20Sample%20Table%20Topics%20Questions.pdf</string>
+		<key>question</key>
+		<string>What is your favorite fictional story (novel, movie, fairytale, etc.)?</string>
+	</dict>
+	<dict>
+		<key>category</key>
+		<string>Idol Worship</string>
+		<key>intro</key>
+		<string></string>
+		<key>min</key>
+		<integer>2</integer>
+		<key>max</key>
+		<integer>3</integer>
+		<key>source</key>
+		<string>http://www.dist8tm.org/docs/TM-%20365%20Sample%20Table%20Topics%20Questions.pdf</string>
+		<key>question</key>
+		<string>Where or who do you turn to when you need good advice?</string>
+	</dict>
+	<dict>
+		<key>category</key>
+		<string>Hobbies</string>
+		<key>intro</key>
+		<string></string>
+		<key>min</key>
+		<integer>2</integer>
+		<key>max</key>
+		<integer>3</integer>
+		<key>source</key>
+		<string>http://www.dist8tm.org/docs/TM-%20365%20Sample%20Table%20Topics%20Questions.pdf</string>
+		<key>question</key>
+		<string>What artistic medium do you use to express yourself?</string>
+	</dict>
+	<dict>
+		<key>category</key>
+		<string>Define This</string>
+		<key>intro</key>
+		<string></string>
+		<key>min</key>
+		<integer>2</integer>
+		<key>max</key>
+		<integer>3</integer>
+		<key>source</key>
+		<string>http://www.dist8tm.org/docs/TM-%20365%20Sample%20Table%20Topics%20Questions.pdf</string>
+		<key>question</key>
+		<string>Who or what is the greatest enemy of mankind?</string>
+	</dict>
+	<dict>
+		<key>category</key>
+		<string>Parallel Universe</string>
+		<key>intro</key>
+		<string></string>
+		<key>min</key>
+		<integer>2</integer>
+		<key>max</key>
+		<integer>3</integer>
+		<key>source</key>
+		<string>http://www.dist8tm.org/docs/TM-%20365%20Sample%20Table%20Topics%20Questions.pdf</string>
+		<key>question</key>
+		<string>What&apos;s something you wish you had done earlier in life?</string>
+	</dict>
+	<dict>
+		<key>category</key>
+		<string>Time Machine</string>
+		<key>intro</key>
+		<string></string>
+		<key>min</key>
+		<integer>2</integer>
+		<key>max</key>
+		<integer>3</integer>
+		<key>source</key>
+		<string>http://www.dist8tm.org/docs/TM-%20365%20Sample%20Table%20Topics%20Questions.pdf</string>
+		<key>question</key>
+		<string>What is the closest you have ever come to fearing for your life?</string>
+	</dict>
+	<dict>
+		<key>category</key>
+		<string>Hobbies</string>
+		<key>intro</key>
+		<string></string>
+		<key>min</key>
+		<integer>2</integer>
+		<key>max</key>
+		<integer>3</integer>
+		<key>source</key>
+		<string>http://www.dist8tm.org/docs/TM-%20365%20Sample%20Table%20Topics%20Questions.pdf</string>
+		<key>question</key>
+		<string>How do you deal with isolation and loneliness?</string>
+	</dict>
+	<dict>
+		<key>category</key>
+		<string>Learning</string>
+		<key>intro</key>
+		<string></string>
+		<key>min</key>
+		<integer>2</integer>
+		<key>max</key>
+		<integer>3</integer>
+		<key>source</key>
+		<string>http://www.dist8tm.org/docs/TM-%20365%20Sample%20Table%20Topics%20Questions.pdf</string>
+		<key>question</key>
+		<string>What do you know well enough to teach to others?</string>
+	</dict>
+	<dict>
+		<key>category</key>
+		<string>Time Machine</string>
+		<key>intro</key>
+		<string></string>
+		<key>min</key>
+		<integer>2</integer>
+		<key>max</key>
+		<integer>3</integer>
+		<key>source</key>
+		<string>http://www.dist8tm.org/docs/TM-%20365%20Sample%20Table%20Topics%20Questions.pdf</string>
+		<key>question</key>
+		<string>What&apos;s a quick decision you once made that changed your life?</string>
+	</dict>
+	<dict>
+		<key>category</key>
+		<string>Hobbies</string>
+		<key>intro</key>
+		<string></string>
+		<key>min</key>
+		<integer>2</integer>
+		<key>max</key>
+		<integer>3</integer>
+		<key>source</key>
+		<string>http://www.dist8tm.org/docs/TM-%20365%20Sample%20Table%20Topics%20Questions.pdf</string>
+		<key>question</key>
+		<string>What have you lost interest in recently?</string>
+	</dict>
+	<dict>
+		<key>category</key>
+		<string>Hobbies</string>
+		<key>intro</key>
+		<string></string>
+		<key>min</key>
+		<integer>2</integer>
+		<key>max</key>
+		<integer>3</integer>
+		<key>source</key>
+		<string>http://www.dist8tm.org/docs/TM-%20365%20Sample%20Table%20Topics%20Questions.pdf</string>
+		<key>question</key>
+		<string>What makes life easier?</string>
+	</dict>
+	<dict>
+		<key>category</key>
+		<string>Time Machine</string>
+		<key>intro</key>
+		<string></string>
+		<key>min</key>
+		<integer>2</integer>
+		<key>max</key>
+		<integer>3</integer>
+		<key>source</key>
+		<string>http://www.dist8tm.org/docs/TM-%20365%20Sample%20Table%20Topics%20Questions.pdf</string>
+		<key>question</key>
+		<string>What was the last thing you furiously argued about with someone?</string>
+	</dict>
+	<dict>
+		<key>category</key>
+		<string>Mirror Mirror</string>
+		<key>intro</key>
+		<string></string>
+		<key>min</key>
+		<integer>2</integer>
+		<key>max</key>
+		<integer>3</integer>
+		<key>source</key>
+		<string>http://www.dist8tm.org/docs/TM-%20365%20Sample%20Table%20Topics%20Questions.pdf</string>
+		<key>question</key>
+		<string>What job would you never do no matter how much it paid?</string>
+	</dict>
+	<dict>
+		<key>category</key>
+		<string>Define This</string>
+		<key>intro</key>
+		<string></string>
+		<key>min</key>
+		<integer>2</integer>
+		<key>max</key>
+		<integer>3</integer>
+		<key>source</key>
+		<string>http://www.dist8tm.org/docs/TM-%20365%20Sample%20Table%20Topics%20Questions.pdf</string>
+		<key>question</key>
+		<string>What is the number one solution to healing the world?</string>
+	</dict>
+	<dict>
+		<key>category</key>
+		<string>Parallel Universe</string>
+		<key>intro</key>
+		<string></string>
+		<key>min</key>
+		<integer>2</integer>
+		<key>max</key>
+		<integer>3</integer>
+		<key>source</key>
+		<string>http://www.dist8tm.org/docs/TM-%20365%20Sample%20Table%20Topics%20Questions.pdf</string>
+		<key>question</key>
+		<string>What could society do without?</string>
+	</dict>
+	<dict>
+		<key>category</key>
+		<string>Hobbies</string>
+		<key>intro</key>
+		<string></string>
+		<key>min</key>
+		<integer>2</integer>
+		<key>max</key>
+		<integer>3</integer>
+		<key>source</key>
+		<string>http://www.dist8tm.org/docs/TM-%20365%20Sample%20Table%20Topics%20Questions.pdf</string>
+		<key>question</key>
+		<string>What stresses you out?</string>
+	</dict>
+	<dict>
+		<key>category</key>
+		<string>Time Machine</string>
+		<key>intro</key>
+		<string></string>
+		<key>min</key>
+		<integer>2</integer>
+		<key>max</key>
+		<integer>3</integer>
+		<key>source</key>
+		<string>http://www.dist8tm.org/docs/TM-%20365%20Sample%20Table%20Topics%20Questions.pdf</string>
+		<key>question</key>
+		<string>Now that it&apos;s behind you, what did you do last week that was memorable?</string>
+	</dict>
+	<dict>
+		<key>category</key>
+		<string>Hobbies</string>
+		<key>intro</key>
+		<string></string>
+		<key>min</key>
+		<integer>2</integer>
+		<key>max</key>
+		<integer>3</integer>
+		<key>source</key>
+		<string>http://www.dist8tm.org/docs/TM-%20365%20Sample%20Table%20Topics%20Questions.pdf</string>
+		<key>question</key>
+		<string>Where do you spend most of your time while you&apos;re awake?</string>
+	</dict>
+	<dict>
+		<key>category</key>
+		<string>Idol Worship</string>
+		<key>intro</key>
+		<string></string>
+		<key>min</key>
+		<integer>2</integer>
+		<key>max</key>
+		<integer>3</integer>
+		<key>source</key>
+		<string>http://www.dist8tm.org/docs/TM-%20365%20Sample%20Table%20Topics%20Questions.pdf</string>
+		<key>question</key>
+		<string>What makes someone a hero?</string>
+	</dict>
+	<dict>
+		<key>category</key>
+		<string>Define This</string>
+		<key>intro</key>
+		<string></string>
+		<key>min</key>
+		<integer>2</integer>
+		<key>max</key>
+		<integer>3</integer>
+		<key>source</key>
+		<string>http://www.dist8tm.org/docs/TM-%20365%20Sample%20Table%20Topics%20Questions.pdf</string>
+		<key>question</key>
+		<string>When in your life have you been a victim of stereotyping?</string>
+	</dict>
+	<dict>
+		<key>category</key>
+		<string>Time Machine</string>
+		<key>intro</key>
+		<string></string>
+		<key>min</key>
+		<integer>2</integer>
+		<key>max</key>
+		<integer>3</integer>
+		<key>source</key>
+		<string>http://www.dist8tm.org/docs/TM-%20365%20Sample%20Table%20Topics%20Questions.pdf</string>
+		<key>question</key>
+		<string>When was the last time you felt lucky?</string>
+	</dict>
+	<dict>
+		<key>category</key>
+		<string>Time Machine</string>
+		<key>intro</key>
+		<string></string>
+		<key>min</key>
+		<integer>2</integer>
+		<key>max</key>
+		<integer>3</integer>
+		<key>source</key>
+		<string>http://www.dist8tm.org/docs/TM-%20365%20Sample%20Table%20Topics%20Questions.pdf</string>
+		<key>question</key>
+		<string>When did you first realize that life is short?</string>
+	</dict>
+	<dict>
+		<key>category</key>
+		<string>Define This</string>
+		<key>intro</key>
+		<string></string>
+		<key>min</key>
+		<integer>2</integer>
+		<key>max</key>
+		<integer>3</integer>
+		<key>source</key>
+		<string>http://www.dist8tm.org/docs/TM-%20365%20Sample%20Table%20Topics%20Questions.pdf</string>
+		<key>question</key>
+		<string>What is the most insensitive thing a person can do?</string>
+	</dict>
+	<dict>
+		<key>category</key>
+		<string>Mirror Mirror</string>
+		<key>intro</key>
+		<string></string>
+		<key>min</key>
+		<integer>2</integer>
+		<key>max</key>
+		<integer>3</integer>
+		<key>source</key>
+		<string>http://www.dist8tm.org/docs/TM-%20365%20Sample%20Table%20Topics%20Questions.pdf</string>
+		<key>question</key>
+		<string>What can someone do to grab your attention?</string>
+	</dict>
+	<dict>
+		<key>category</key>
+		<string>Hobbies</string>
+		<key>intro</key>
+		<string></string>
+		<key>min</key>
+		<integer>2</integer>
+		<key>max</key>
+		<integer>3</integer>
+		<key>source</key>
+		<string>http://www.dist8tm.org/docs/TM-%20365%20Sample%20Table%20Topics%20Questions.pdf</string>
+		<key>question</key>
+		<string>What do you usually think about on your drive home from work?</string>
+	</dict>
+	<dict>
+		<key>category</key>
+		<string>Define This</string>
+		<key>intro</key>
+		<string></string>
+		<key>min</key>
+		<integer>2</integer>
+		<key>max</key>
+		<integer>3</integer>
+		<key>source</key>
+		<string>http://www.dist8tm.org/docs/TM-%20365%20Sample%20Table%20Topics%20Questions.pdf</string>
+		<key>question</key>
+		<string>What&apos;s one downside of the modern day world?</string>
+	</dict>
+	<dict>
+		<key>category</key>
+		<string>Learning</string>
+		<key>intro</key>
+		<string></string>
+		<key>min</key>
+		<integer>2</integer>
+		<key>max</key>
+		<integer>3</integer>
+		<key>source</key>
+		<string>http://www.dist8tm.org/docs/TM-%20365%20Sample%20Table%20Topics%20Questions.pdf</string>
+		<key>question</key>
+		<string>What simple fact do you wish more people understood?</string>
+	</dict>
+	<dict>
+		<key>category</key>
+		<string>Parallel Universe</string>
+		<key>intro</key>
+		<string></string>
+		<key>min</key>
+		<integer>2</integer>
+		<key>max</key>
+		<integer>3</integer>
+		<key>source</key>
+		<string>http://www.dist8tm.org/docs/TM-%20365%20Sample%20Table%20Topics%20Questions.pdf</string>
+		<key>question</key>
+		<string>If you could do it all over again, would you change anything?</string>
+	</dict>
+	<dict>
+		<key>category</key>
+		<string>Time Machine</string>
+		<key>intro</key>
+		<string></string>
+		<key>min</key>
+		<integer>2</integer>
+		<key>max</key>
+		<integer>3</integer>
+		<key>source</key>
+		<string>http://www.dist8tm.org/docs/TM-%20365%20Sample%20Table%20Topics%20Questions.pdf</string>
+		<key>question</key>
+		<string>How would you describe your future in three words?</string>
+	</dict>
+</array>
+</plist>
