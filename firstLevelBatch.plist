@@ -3,6 +3,8 @@
 <plist version="1.0">
 <array>
 	<dict>
+		<key>batchIndex</key>
+		<integer>0</integer>
 		<key>batchDate</key>
 		<string>2015-1-1</string>
 		<key>batchUrl</key>
@@ -10,4 +12,3 @@
 	</dict>
 </array>
 </plist>
-
